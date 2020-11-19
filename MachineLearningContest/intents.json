@@ -1,0 +1,2783 @@
+[
+   {
+      "id":995,
+      "variations":{
+         "0":"Is there a procedure to open AllinCall bank online",
+         "1":"How to open AllinCall bank online",
+         "2":"Can I open AllinCall bank online?"
+      },
+      "intent":"Can I open AllinCall bank online?"
+   },
+   {
+      "id":996,
+      "variations":{
+         "0":"Explain the features of AllinCall bank account",
+         "1":"Tellme about the features of AllinCall bank account",
+         "2":"GIve information on the AllinCall bank account fetaures",
+         "3":"Share details on on the AllinCall bank account features",
+         "4":"What are the features of AllinCall bank account?"
+      },
+      "intent":"What are the features of AllinCall bank account?"
+   },
+   {
+      "id":997,
+      "variations":{
+         "0":"What are the features of AllinCall bank Video Kyc account?",
+         "1":"features of AllinCall bank Video KYC account",
+         "2":"tell me features of AllinCall bank Video KYC account",
+         "3":"explain all features of AllinCall bank Video KYC account",
+         "4":"i am confused about the features of AllinCall bank video kyc account?",
+         "5":"explain the features of AllinCall bank video kyc account?",
+         "6":"details on the features of AllinCall bank video kyc account?",
+         "7":"information about the features of AllinCall bank video kyc account?",
+         "8":"i do not know about the features of AllinCall bank video kyc account?",
+         "9":"tell me about the features of AllinCall bank video kyc account?",
+         "10":"i do not understand what are the features of AllinCall bank video kyc account?",
+         "11":"explain what are the features of AllinCall bank video kyc account?",
+         "12":"details about the features of AllinCall bank video kyc account?",
+         "13":"what do you mean by the features of AllinCall bank video kyc account?",
+         "14":"what are the things i need to know about the features of AllinCall bank video kyc account?",
+         "15":"i want to know about the features of AllinCall bank video kyc account?",
+         "16":"can you explain the features of AllinCall bank video kyc account?",
+         "17":"give me information on the features of AllinCall bank video kyc account?",
+         "18":"information on the features of AllinCall bank video kyc account?"
+      },
+      "intent":"What are the features of AllinCall bank Video Kyc account?"
+   },
+   {
+      "id":998,
+      "variations":{
+         "0":"Am i allowed to open a joint AllinCall bank account",
+         "1":"Does AllinCall bank allows the user to open a joint account?",
+         "2":"Can I open a joint AllinCall bank account?",
+         "3":"Is it possible to open joint account"
+      },
+      "intent":"Can I open a joint AllinCall bank account?"
+   },
+   {
+      "id":999,
+      "variations":{
+         "0":"I don\u2019t have a PAN",
+         "1":"how to open an account if i dont have PAN",
+         "2":"I dont have PAN card",
+         "3":"I don\u2019t have a PAN card",
+         "4":"help me open account without PAN card",
+         "5":"what to do if I don\u2019t have a PAN card",
+         "6":"Apply for New PAN card"
+      },
+      "intent":"I don\u2019t have a PAN card"
+   },
+   {
+      "id":1000,
+      "variations":{
+         "0":"I don\u2019t have an Aadhaar to open an account",
+         "1":"I don\u2019t have an Aadhaar card. How do I open an account?",
+         "2":"I don't have Aadhar card can i open an account ",
+         "3":"Help me open an account I dont have account"
+      },
+      "intent":"I don\u2019t have an Aadhaar card. How do I open an account?"
+   },
+   {
+      "id":1001,
+      "variations":{
+         "0":"What are the Fees and charges for AllinCall bank account?",
+         "1":"Explain the Fees and charges for AllinCall bank account",
+         "2":"Tell me about the Fees and charges for AllinCall bank account",
+         "3":"Give details on the Fees and charges for AllinCall bank account",
+         "4":"Share information on Fees and charges for AllinCall bank account",
+         "5":"Fees and charges for AllinCall bank account",
+         "6":"What are my account charges"
+      },
+      "intent":"Fees and charges for AllinCall bank account"
+   },
+   {
+      "id":1003,
+      "variations":{
+         "0":"Explain the interest rate of AllinCall bank",
+         "1":"Specify the interest rate of AllinCall bank",
+         "2":"Give details on the interest rate of AllinCall bank",
+         "3":"Share information on the interest rate of AllinCall bank",
+         "4":"Tell me aboout the interest rate of AllinCall bank",
+         "5":"What is the interest rate of AllinCall bank?",
+         "6":"What is savings account interest rate"
+      },
+      "intent":"What is the interest rate of AllinCall bank?"
+   },
+   {
+      "id":1004,
+      "variations":{
+         "0":"Explain AllinCall Lite",
+         "1":"Elaborate AllinCall Lite",
+         "2":"Give details on AllinCall Lite",
+         "3":"Share information of AllinCall Lite",
+         "4":"Tell me about AllinCall Lite",
+         "5":"What is AllinCall Lite"
+      },
+      "intent":"What is AllinCall Lite"
+   },
+   {
+      "id":1005,
+      "variations":{
+         "0":"Explain AllinCall Limited",
+         "1":"Elaborate AllinCall Limited",
+         "2":"Give details on AllinCall Limited",
+         "3":"Share information of AllinCall Limited",
+         "4":"Tell me about AllinCall Limited",
+         "5":"What is AllinCall Limited"
+      },
+      "intent":"What is AllinCall Limited"
+   },
+   {
+      "id":1006,
+      "variations":{
+         "0":"Explain AllinCall Edge",
+         "1":"Elaborate AllinCall Edge",
+         "2":"Give details on AllinCall Edge",
+         "3":"Share information of AllinCall Edge",
+         "4":"Tell me about AllinCall Edge",
+         "5":"What is AllinCall Edge"
+      },
+      "intent":"What is AllinCall Edge"
+   },
+   {
+      "id":1007,
+      "variations":{
+         "0":"What is AllinCall FKYC account?",
+         "1":"define AllinCall FKYC account",
+         "2":"information on AllinCall bank fkyc account?",
+         "3":"give me information on AllinCall bank fkyc account?",
+         "4":"details on AllinCall bank fkyc account?",
+         "5":"details about AllinCall bank fkyc account?",
+         "6":"What is AllinCall FKYC account",
+         "7":"What is AllinCall FKYC account"
+      },
+      "intent":"What is AllinCall FKYC account"
+   },
+   {
+      "id":1008,
+      "variations":{
+         "0":"Will i require aadhar?",
+         "1":"is aadhar necessary?",
+         "2":"is aadhar required?",
+         "3":"Do I need Aadhaar ?"
+      },
+      "intent":"Do I need Aadhaar ?"
+   },
+   {
+      "id":1009,
+      "variations":{
+         "0":"what are the steps to open AllinCall?",
+         "1":"explain how to poen AllinCall",
+         "2":"What is the procedure to open AllinCall?",
+         "3":"Give details on how to open AllinCall.",
+         "4":"Share information to open AllinCall",
+         "5":"How to open AllinCall?",
+         "6":"How to open saving",
+         "7":"How to open AllinCall or saving?",
+         "8":"How to open AllinCall or saving account?",
+         "9":"What is the account opening process"
+      },
+      "intent":"How to open AllinCall?"
+   },
+   {
+      "id":1013,
+      "variations":{
+         "0":"is physical PAN card required for Video KYC?",
+         "1":"Is it necessary for a physical PAN to perform video KYC?",
+         "2":"What if I dont have a physical PAN card for video KYC?",
+         "3":"Do I need physical PAN card for Video KYC?"
+      },
+      "intent":"Do I need physical PAN card for Video KYC?"
+   },
+   {
+      "id":1014,
+      "variations":{
+         "0":"Specify the browser needed for video KYC",
+         "1":"Tell me about the browser needed for video KYC",
+         "2":"GIve details on the browser needed for video KYC",
+         "3":"Share information on the browser needed for video KYC",
+         "4":"Which browser is needed for Video KYC?"
+      },
+      "intent":"Which browser is needed for Video KYC?"
+   },
+   {
+      "id":1015,
+      "variations":{
+         "0":"Can i perform the video KYC process from oversees?",
+         "1":"Can i perform the video KYC process from outside India?",
+         "2":"Do I have to be in India for Video KYC?"
+      },
+      "intent":"Do I have to be in India for Video KYC?"
+   },
+   {
+      "id":1016,
+      "variations":{
+         "0":"Explain virtual debit card",
+         "1":"Describe a virtual credit card",
+         "2":"Give details on virtual credit card",
+         "3":"Tell me about virtual credit card",
+         "4":"What is virtual debit card?"
+      },
+      "intent":"What is virtual debit card?"
+   },
+   {
+      "id":1017,
+      "variations":{
+         "0":"Where will I find my virtual debit card details?",
+         "1":"where is my virtual debit card details",
+         "2":"how to find virtual debit card details",
+         "3":"how to find my virtual debit card details",
+         "4":"details about my virtual debit card"
+      },
+      "intent":"Where will I find my virtual debit card details?"
+   },
+   {
+      "id":1018,
+      "variations":{
+         "0":"Explain the difference between virtual debit card card and physical debit card",
+         "1":"Tell me the difference between virtual debit card card and physical debit card",
+         "2":"How does a virtual credit card vary from a normal credit card?",
+         "3":"What are the points of difference between a virtual debit card card and a physical debit card?",
+         "4":"What's the difference between virtual debit card card and physical debit card?"
+      },
+      "intent":"What's the difference between virtual debit card card and physical debit card?"
+   },
+   {
+      "id":1019,
+      "variations":{
+         "0":"Explain AllinCall bank Prepaid card",
+         "1":"Give me details for AllinCall bank Prepaid card",
+         "2":"Tell me about the AllinCall bank Prepaid card",
+         "3":"Give me information on AllinCall bank Prepaid card",
+         "4":"What is AllinCall bank Prepaid card?"
+      },
+      "intent":"What is AllinCall bank Prepaid card?"
+   },
+   {
+      "id":1020,
+      "variations":{
+         "0":"Is AllinCall bank Debit Card a Visa Card?",
+         "1":"What kind of card is the AllinCall bank Debit Card?",
+         "2":"What type of debit card is AllinCall bank Debit Card?"
+      },
+      "intent":"What type of debit card is AllinCall bank Debit Card?"
+   },
+   {
+      "id":1166,
+      "variations":{
+         "0":"How long will it take for me to get the account details after video KYC?",
+         "1":"What is the duration of getting my details after performing video KYC?",
+         "2":"When will I get account details after video KYC?"
+      },
+      "intent":"When will I get account details after video KYC?"
+   },
+   {
+      "id":1021,
+      "variations":{
+         "0":"Where can I find the CVV number of my AllinCall bank virtual debit card?",
+         "1":"What is the location of the CVV number of my AllinCall bank virtual debit card?",
+         "2":"I want to know about the CVV number of my AllinCall bank virtual debit card",
+         "3":"Where can I see the CVV number of my AllinCall bank virtual debit card? "
+      },
+      "intent":"Where can I see the CVV number of my AllinCall bank virtual debit card?"
+   },
+   {
+      "id":1022,
+      "variations":{
+         "0":"How Will i receive my physical debit card, By post or in the bank?",
+         "1":"Where do i collect my physical debit card?",
+         "2":"Where will I receive my physical debit card?"
+      },
+      "intent":"Where will I receive my physical debit card?"
+   },
+   {
+      "id":1023,
+      "variations":{
+         "0":"Do i have to pay to get my physical debit card?",
+         "1":"what are the charges for a physical debit card?",
+         "2":"Expoan the charges for a physical debit card in detail",
+         "3":"Is there any charge for getting physical debit card?",
+         "4":"Is there any charge for Debit Card",
+         "5":"Is there any fee for debit card",
+         "6":"Is there any charge for Physical getting debit card?",
+         "7":"Is there any charge for getting debit card?",
+         "8":"What are the charges for debit card",
+         "9":"How much I need to pay for debit card"
+      },
+      "intent":"Is there any charge for getting physical debit card?"
+   },
+   {
+      "id":1024,
+      "variations":{
+         "0":"What is the medium to pay for my physical debit card?",
+         "1":"How can I pay my physical debit card bills?",
+         "2":"Explain the ways throught which i can pay for my physical debit card",
+         "3":"How do I need to pay for my physical debit card?"
+      },
+      "intent":"How do I need to pay for my physical debit card?"
+   },
+   {
+      "id":1026,
+      "variations":{
+         "0":"Can you let me know if the charge of a physical debit card a one-time payment or a recurring payment?",
+         "1":"I would like to know if the charge of a physical debit card a one-time payment or a recurring payment?",
+         "2":"Is the charge of a physical debit card a one-time payment or a recurring payment? "
+      },
+      "intent":"Is the charge of a physical debit card a one-time payment or a recurring payment?"
+   },
+   {
+      "id":1027,
+      "variations":{
+         "0":"What is annual maintenance fee charged on a AllinCall bank virtual debit card?",
+         "1":"Share details on the annual maintenance fee charged on a AllinCall bank virtual debit card?",
+         "2":"Is there any annual maintenance fee charged on a AllinCall bank virtual debit card?"
+      },
+      "intent":"Is there any annual maintenance fee charged on a AllinCall bank virtual debit card?"
+   },
+   {
+      "id":1028,
+      "variations":{
+         "0":"Provide me with the details to apply for a physical debit card",
+         "1":"Give information on how to apply for a physical debit card",
+         "2":"What are the steps to apply for a physical debit card?",
+         "3":"How can I apply for physical debit card?",
+         "4":"PDC",
+         "5":"get physical debit card",
+         "6":"How can I apply for ATM Card",
+         "7":"apply for physical debit card"
+      },
+      "intent":"How can I apply for physical debit card?"
+   },
+   {
+      "id":1029,
+      "variations":{
+         "0":"how do i apply for a virtual debit card?",
+         "1":"Where do i apply for a virtual debit card?",
+         "2":"Do I need to apply  for virtual debit card?"
+      },
+      "intent":"Do I need to apply for virtual debit card?"
+   },
+   {
+      "id":1030,
+      "variations":{
+         "0":"I haven't yet received a debit card with my AllinCall bank account? When will i recieve/get it?",
+         "1":"I haven't yet received a debit card with my AllinCall bank account? When will I receive a debit card?",
+         "2":"I haven't yet received a ATM card with my AllinCall bank account? ",
+         "3":"When will I receive a ATM card?",
+         "4":"I haven't yet received a ATM card with my AllinCall bank account?",
+         "5":"I haven't yet received a debit card with my AllinCall bank account? "
+      },
+      "intent":"I haven't yet received a debit card with my AllinCall bank account? When will I receive a debit card?"
+   },
+   {
+      "id":1031,
+      "variations":{
+         "0":"i didnt receive any debit card after opening a AllinCall bank account, what can i do?",
+         "1":"What are the steps to receive a debit card after opening an account with AllinCall bank?",
+         "2":"I opened my AllinCall bank but didn't receive any debit card?",
+         "3":"didn't receive debit card",
+         "4":"didn't receive card",
+         "5":"I opened my AllinCall bank but didn't receive any ATM card?"
+      },
+      "intent":"I opened my AllinCall bank but didn't receive any debit card?"
+   },
+   {
+      "id":1033,
+      "variations":{
+         "0":"is it mandatory to complete the full KYC to apply for a physical debit card?",
+         "1":"Can i apply for a physical debit card without completing the full KYC process?",
+         "2":"Do I need to complete the full KYC to apply for a physical debit card?"
+      },
+      "intent":"Do I need to complete the full KYC to apply for a physical debit card?"
+   },
+   {
+      "id":1034,
+      "variations":{
+         "0":"I need to get a physical debit card as i am not able to place a request, what can i do?",
+         "1":"I am not able to place a request for physical debit card. What should I do?",
+         "2":"I am not able to place a request for physical debit card",
+         "3":"unable to place a request for a physical debit card",
+         "4":"I am not able to place a request for ATM card. What should I do?"
+      },
+      "intent":"I am not able to place a request for physical debit card. What should I do?"
+   },
+   {
+      "id":1035,
+      "variations":{
+         "0":"is it mandatory for me to visit bank branch to apply for physical debit card?",
+         "1":"Why Do I need to visit bank branch to apply for physical debit card?",
+         "2":"Do I need to visit bank branch to apply for physical debit card?"
+      },
+      "intent":"Do I need to visit bank branch to apply for physical debit card?"
+   },
+   {
+      "id":1036,
+      "variations":{
+         "0":"Where can i set the PIN for my debit card?",
+         "1":"Provide me with the link to set the PIN for my debit card",
+         "2":"I need to set the PIN for my debit card, where can i do it?",
+         "3":"How can I set the PIN of my debit card?"
+      },
+      "intent":"How can I set the PIN of my debit card?"
+   },
+   {
+      "id":1037,
+      "variations":{
+         "0":"As i forgot my debit card PIN, how can i reset it?",
+         "1":"Kindly provide me with the link to reset my debit card PIN.",
+         "2":"Where i can reset my debit card PIN?",
+         "3":"How to reset my debit card PIN if i have forgotten it?",
+         "4":"I need to reset the PIN for my debit card, where can i do it?",
+         "5":"I forgot the PIN of my debit card. How can I reset the PIN of my debit card?",
+         "6":"i forgot the PIN of my ATM card ",
+         "7":"How can I reset my ATM card PIN",
+         "8":"I forgot the PIN of my debit card. ",
+         "9":"How can I reset the PIN of my debit card?"
+      },
+      "intent":"I forgot the PIN of my debit card. How can I reset the PIN of my debit card?"
+   },
+   {
+      "id":1038,
+      "variations":{
+         "0":"How do i check if my debit card is active or not?",
+         "1":"How to check if my debit card which i just received is active or not?",
+         "2":"I received my debit card. How do I know if it is active or not?"
+      },
+      "intent":"I received my debit card. How do I know if it is active or not?"
+   },
+   {
+      "id":1039,
+      "variations":{
+         "0":"Where to check the status of my physical debit card ?",
+         "1":"Kindly provide me with the link to check the status of my physical debit card?",
+         "2":"Can you help me in checking the status of my physical debit card?",
+         "3":"How can I check the status of my physical debit card?",
+         "4":"What is the status my physical debit card?",
+         "5":"debit card  status",
+         "6":"What is the status of my physical debit card",
+         "7":"What is the status my debit card",
+         "8":"What is the status my debit card?",
+         "9":"track my package",
+         "10":"How can I track debit card",
+         "11":"i have already applied for debit card",
+         "12":"How can I check the status of my physical debit card application?"
+      },
+      "intent":"How can I check the status of my physical debit card application?"
+   },
+   {
+      "id":1040,
+      "variations":{
+         "0":"The charge of the physical  debit card was debited from my account. However, I didn\u2019t receive the physical debit card yet. Can you provide me with the link to check the status of my credit card?",
+         "1":"The charge of the physical  debit card was debited from my account. However, I didn\u2019t receive the physical debit card yet. When will I receive my debit card?"
+      },
+      "intent":"The charge of the physical debit card was debited from my account. However, I didn\u2019t receive the physical debit card yet. When will I receive my debit card?"
+   },
+   {
+      "id":1043,
+      "variations":{
+         "0":"What is the time frame at which my physical debit card will reach to my communication address?",
+         "1":"Can you let me know when i will get my physical debit card at my communication address?",
+         "2":"What are the number of working days required for the physical debit card to reach my communication address?",
+         "3":"How many days will it take for the physical debit card to reach my communication address?",
+         "4":"How many days will it take for debit card to reach my communication address?",
+         "5":"how many days does it takes?"
+      },
+      "intent":"How many days will it take for the physical debit card to reach my communication address?"
+   },
+   {
+      "id":1044,
+      "variations":{
+         "0":"is there an option to use my AllinCall debit for international transactions?",
+         "1":"Is there a provision to use my AllinCall debit for international transactions?",
+         "2":"How can i use my AllinCall debit for international transactions?",
+         "3":"Is AllinCall bank credit card allowed to use for international transactions?",
+         "4":"Can I use my AllinCall debit for international transactions?"
+      },
+      "intent":"Can I use my AllinCall debit for international transactions?"
+   },
+   {
+      "id":1045,
+      "variations":{
+         "0":"What are the charges or processing fees for using AllinCall bank debit card on Netflix, Prime etc?",
+         "1":"Share with me the charges or processing fees for using AllinCall bank debit card on Netflix, Prime etc?",
+         "2":"Specify the charges or processing fees for using AllinCall bank debit card on Netflix, Prime etc?",
+         "3":"Is there any charge or processing fee for using AllinCall bank debit card on Netflix, Prime etc?"
+      },
+      "intent":"Is there any charge or processing fee for using AllinCall bank debit card on Netflix, Prime etc?"
+   },
+   {
+      "id":1046,
+      "variations":{
+         "0":"GIve details on how to use my virtual debit card to shop online",
+         "1":"Share information on how to use my virtual debit card to shop online",
+         "2":"What are the steps to use use my virtual debit card to shop online?",
+         "3":"Tell me how to use my virtual debit card to shop online",
+         "4":"What is the procedure to use my virtual debit card to shop online?",
+         "5":"How can I use my virtual debit card to shop online?",
+         "6":"VDC"
+      },
+      "intent":"How can I use my virtual debit card to shop online?"
+   },
+   {
+      "id":1047,
+      "variations":{
+         "0":"Steps to withdraw without debit card",
+         "1":"Process to withdraw without debit card",
+         "2":"Guide me on how to withdraw money without debit card",
+         "3":"I want to withdraw money without debit card please help",
+         "4":"How can I withdraw money without debit card",
+         "5":"How can I withdraw without ATM card",
+         "6":"How can I withdraw cash without debit card",
+         "7":"Withdrawal",
+         "8":"IMT"
+      },
+      "intent":"How can I withdraw money without debit card"
+   },
+   {
+      "id":1048,
+      "variations":{
+         "0":"Where is my virtual debit card?",
+         "1":"Where can I find my virtual debit card?",
+         "2":"Where can i download  my virtual debit card?",
+         "3":"I do not see my virtual debit card"
+      },
+      "intent":"I do not see my virtual debit card"
+   },
+   {
+      "id":1049,
+      "variations":{
+         "0":"It is saying that my virtual card is blocked and will be available after 2 days, What should i do?",
+         "1":"I have completed my KYC process and still not able to view my virtual debit card, it is blocked?",
+         "2":"My virtual card is blocked and it says it will be available after 2 days",
+         "3":"My virtual card is locked ",
+         "4":"My virtual card is blocked/locked and it says it will be available after 2 days",
+         "5":"My virtual card is block and it says it will be available after 2 days"
+      },
+      "intent":"My virtual card is blocked and it says it will be available after 2 days"
+   },
+   {
+      "id":1050,
+      "variations":{
+         "0":"Tell me about MPIN",
+         "1":"I want to know about MPIN",
+         "2":"Give me information about MPIN",
+         "3":"What are the things I need to know about MPIN",
+         "4":"Details on MPIN",
+         "5":"What is meant by MPIN",
+         "6":"Meaning of MPIN",
+         "7":"Can you explain MPIN",
+         "8":"Clarify what is MPIN",
+         "9":"I am confused about MPIN",
+         "10":"What is MPIN?"
+      },
+      "intent":"What is MPIN?"
+   },
+   {
+      "id":1051,
+      "variations":{
+         "0":"Why do I need MPIN",
+         "1":"Tell me about Why do I need MPIN",
+         "2":"I want to know about Why do I need MPIN",
+         "3":"Give me information about Why do I need MPIN",
+         "4":"Details on Why do I need MPIN",
+         "5":"Can you explain Why do I need MPIN",
+         "6":"Clarify Why do I need MPIN",
+         "7":"Why do I need MPIN?"
+      },
+      "intent":"Why do I need MPIN?"
+   },
+   {
+      "id":1052,
+      "variations":{
+         "0":"How do I create MPIN",
+         "1":"Tell me about How do I create MPIN",
+         "2":"I want to know about How do I create MPIN",
+         "3":"Give me information about How do I create MPIN",
+         "4":"Details on How do I create MPIN",
+         "5":"Can you explain How do I create MPIN",
+         "6":"Clarify How do I create MPIN",
+         "7":"How do I create MPIN?"
+      },
+      "intent":"How do I create MPIN?"
+   },
+   {
+      "id":1053,
+      "variations":{
+         "0":"How do I create a PIN for my Virtual debit card",
+         "1":"Tell me about How do I create a PIN for my Virtual debit card",
+         "2":"I want to know about How do I create a PIN for my Virtual debit card",
+         "3":"Give me information about How do I create a PIN for my Virtual debit card",
+         "4":"Details on How do I create a PIN for my Virtual debit card",
+         "5":"Can you explain How do I create a PIN for my Virtual debit card",
+         "6":"Clarify How do I create a PIN for my Virtual debit card",
+         "7":"How do I create a PIN for my Virtual debit card?"
+      },
+      "intent":"How do I create a PIN for my Virtual debit card?"
+   },
+   {
+      "id":1054,
+      "variations":{
+         "0":"How do I set password for my Net Banking",
+         "1":"Tell me about How do I set password for my Net Banking",
+         "2":"I want to know about How do I set password for my Net Banking",
+         "3":"Give me information about How do I set password for my Net Banking",
+         "4":"Details on How do I set password for my Net Banking",
+         "5":"Can you explain How do I set password for my Net Banking",
+         "6":"Clarify How do I set password for my Net Banking",
+         "7":"How do I set password for my Net Banking?"
+      },
+      "intent":"How do I set password for my Net Banking?"
+   },
+   {
+      "id":1055,
+      "variations":{
+         "0":"Tell me about CRN",
+         "1":"I want to know about CRN",
+         "2":"Give me information about CRN",
+         "3":"What are the things I need to know about CRN",
+         "4":"Details on CRN",
+         "5":"What is meant by CRN",
+         "6":"Meaning of CRN",
+         "7":"Can you explain CRN",
+         "8":"Clarify what is CRN",
+         "9":"I am confused about CRN",
+         "10":"What is my CRN?"
+      },
+      "intent":"What is my CRN?"
+   },
+   {
+      "id":1056,
+      "variations":{
+         "0":"How to reset/change MPIN",
+         "1":"Tell me about How to reset/change MPIN",
+         "2":"I want to know about How to reset/change MPIN",
+         "3":"Give me information about How to reset/change MPIN",
+         "4":"Details on How to reset/change MPIN",
+         "5":"Can you explain How to reset/change MPIN",
+         "6":"Clarify How to reset/change MPIN",
+         "7":"How to reset/change MPIN?",
+         "8":"Forgot MPIN"
+      },
+      "intent":"How to reset/change MPIN?"
+   },
+   {
+      "id":1057,
+      "variations":{
+         "0":"define recover CRN",
+         "1":"Help me with the recover CRN",
+         "2":"do we need to have Maker Checker and Approver set up",
+         "3":"Is it necessary to have Maker Checker and Approver set up",
+         "4":"Explain recover CRN",
+         "5":"Explain recover CRN",
+         "6":"How to recover CRN?",
+         "7":"cnr"
+      },
+      "intent":"How to recover CRN?"
+   },
+   {
+      "id":1058,
+      "variations":{
+         "0":"How do I set my MPIN after video KYC",
+         "1":"Tell me about How do I set my MPIN after video KYC",
+         "2":"I want to know about How do I set my MPIN after video KYC",
+         "3":"Give me information about How do I set my MPIN after video KYC",
+         "4":"Details on How do I set my MPIN after video KYC",
+         "5":"Can you explain How do I set my MPIN after video KYC",
+         "6":"Clarify How do I set my MPIN after video KYC",
+         "7":"How do I set my MPIN after video KYC?"
+      },
+      "intent":"How do I set my MPIN after video KYC?"
+   },
+   {
+      "id":1059,
+      "variations":{
+         "0":"change my Mobile number",
+         "1":"Help me with how to change my Mobile number",
+         "2":"Can you tell how can I change my Mobile number",
+         "3":"change my Mobile number",
+         "4":"How do I change my Mobile number?",
+         "5":"How can I update my contact number",
+         "6":"how can I change my contact number",
+         "7":"contact number",
+         "8":"How do I change my phone number"
+      },
+      "intent":"How do I change my Mobile number?"
+   },
+   {
+      "id":1060,
+      "variations":{
+         "0":"define change my address after KYC",
+         "1":"Help me with the change my address after KYC",
+         "2":"Explain change my address after KYC",
+         "3":"Explain change my address after KYC",
+         "4":"How to change my address after KYC?",
+         "5":"I want to update my address",
+         "6":"i want to apply for address change online"
+      },
+      "intent":"How to change my address after KYC?"
+   },
+   {
+      "id":1061,
+      "variations":{
+         "0":"How to change my email id after KYC",
+         "1":"Tell me about How to change my email id after KYC",
+         "2":"I want to know about How to change my email id after KYC",
+         "3":"Give me information about How to change my email id after KYC",
+         "4":"Details on How to change my email id after KYC",
+         "5":"Can you explain How to change my email id after KYC",
+         "6":"Clarify How to change my email id after KYC",
+         "7":"How to change my email id after KYC?"
+      },
+      "intent":"How to change my email id after KYC?"
+   },
+   {
+      "id":1161,
+      "variations":{
+         "0":"What are the steps to open Video KYC account?",
+         "1":"Tell me the procedure to open Video KYC account",
+         "2":"Give details on how to open Video KYC account",
+         "3":"Share information on how to open Video KYC account",
+         "4":"How to open Video KYC account?"
+      },
+      "intent":"How to open Video KYC account?"
+   },
+   {
+      "id":1062,
+      "variations":{
+         "0":"Tell me about my home branch",
+         "1":"I want to know about my home branch",
+         "2":"Give me information about my home branch",
+         "3":"What are the things I need to know about my home branch",
+         "4":"Details on my home branch",
+         "5":"What is meant by my home branch",
+         "6":"Meaning of my home branch",
+         "7":"Can you explain my home branch",
+         "8":"Clarify what is my home branch",
+         "9":"I am confused about my home branch",
+         "10":"What is my home branch?",
+         "11":"how can i know my branch name"
+      },
+      "intent":"What is my home branch?"
+   },
+   {
+      "id":1063,
+      "variations":{
+         "0":"What is the time taken for the deposited cash to reflect in my AllinCall account?",
+         "1":"time taken for deposited cash to reflect in my AllinCall account",
+         "2":"time taken for deposited cash to reflect in my  account",
+         "3":"how much time it takes for deposited cash to reflect in my AllinCall account",
+         "4":"please tell me about time taken for the deposited cash to reflect in my AllinCall account"
+      },
+      "intent":"What is the time taken for the deposited cash to reflect in my AllinCall account?"
+   },
+   {
+      "id":1064,
+      "variations":{
+         "0":"define update my name in account",
+         "1":"Help me with the update my name in account",
+         "2":"Explain update my name in account",
+         "3":"Explain update my name in account",
+         "4":"How to update my name in account?",
+         "5":"How to update my name account?",
+         "6":"How to update my date of birth in account ",
+         "7":"update date of birth",
+         "8":"update name"
+      },
+      "intent":"How to update my name in AllinCall bank account?"
+   },
+   {
+      "id":1065,
+      "variations":{
+         "0":"How to update my date of birth in AllinCall bank account",
+         "1":"Tell me about How to update my date of birth in AllinCall bank account",
+         "2":"I want to know about How to update my date of birth in AllinCall bank account",
+         "3":"Give me information about How to update my date of birth in AllinCall bank account",
+         "4":"Details on How to update my date of birth in AllinCall bank account",
+         "5":"Can you explain How to update my date of birth in AllinCall bank account",
+         "6":"Clarify How to update my date of birth in AllinCall bank account",
+         "7":"How to update my date of birth in AllinCall bank account?"
+      },
+      "intent":"How to update my date of birth in AllinCall bank account?"
+   },
+   {
+      "id":1068,
+      "variations":{
+         "0":"How do I know if my account is active",
+         "1":"I want to activate my account when will it be activated?",
+         "2":"how much time it takes to activate my account",
+         "3":"How to activate my account",
+         "4":"when will my account be activated?"
+      },
+      "intent":"I want to activate my account when will it be activated?"
+   },
+   {
+      "id":1069,
+      "variations":{
+         "0":"tell me about Why my account is under freeze",
+         "1":"help me with Why my account is under freeze",
+         "2":"can you tell Why my account is under freeze",
+         "3":"answer Why my account is under freeze",
+         "4":"Why my account is under freeze?",
+         "5":"Freeze",
+         "6":"Frozen",
+         "7":"Why did you put my account under freeze?"
+      },
+      "intent":"Why my account is under freeze?"
+   },
+   {
+      "id":1070,
+      "variations":{
+         "0":"Tell me about What do I do if my account is frozen",
+         "1":"I want to know about What do I do if my account is frozen",
+         "2":"Give me information about What do I do if my account is frozen",
+         "3":"What are the things I need to know about What do I do if my account is frozen",
+         "4":"Details on What do I do if my account is frozen",
+         "5":"What is meant by What do I do if my account is frozen",
+         "6":"Meaning of What do I do if my account is frozen",
+         "7":"Can you explain What do I do if my account is frozen",
+         "8":"Clarify what is What do I do if my account is frozen",
+         "9":"I am confused about What do I do if my account is frozen",
+         "10":"What do I do if my account is frozen?"
+      },
+      "intent":"What do I do if my account is frozen?"
+   },
+   {
+      "id":1071,
+      "variations":{
+         "0":"How to close my account",
+         "1":"Tell me about How to close my account",
+         "2":"I want to know about How to close my account",
+         "3":"Give me information about How to close my account",
+         "4":"Clarify How to close my account",
+         "5":"How to close my account?"
+      },
+      "intent":"How to close my account?"
+   },
+   {
+      "id":1072,
+      "variations":{
+         "0":"Can I close my account online",
+         "1":"Tell me about Can I close my account online",
+         "2":"I want to know about Can I close my account online",
+         "3":"Give me information about Can I close my account online",
+         "4":"Details on Can I close my account online",
+         "5":"Can you explain Can I close my account online",
+         "6":"Clarify Can I close my account online",
+         "7":"Can I close my account online?"
+      },
+      "intent":"Can I close my account online?"
+   },
+   {
+      "id":1074,
+      "variations":{
+         "0":"How much time will it take to receive a demand draft after my AllinCall account is closed",
+         "1":"Tell me about How much time will it take to receive a demand draft after my AllinCall account is closed",
+         "2":"I want to know about How much time will it take to receive a demand draft after my AllinCall account is closed",
+         "3":"Give me information about How much time will it take to receive a demand draft after my AllinCall account is closed",
+         "4":"Details on How much time will it take to receive a demand draft after my AllinCall account is closed",
+         "5":"Can you explain How much time will it take to receive a demand draft after my AllinCall account is closed",
+         "6":"Clarify How much time will it take to receive a demand draft after my AllinCall account is closed",
+         "7":"How much time will it take to receive a demand draft after my AllinCall account is closed?"
+      },
+      "intent":"How much time will it take to receive a demand draft after my AllinCall account is closed?"
+   },
+   {
+      "id":1075,
+      "variations":{
+         "0":"login",
+         "1":"Help me with how to login",
+         "2":"Can you tell how can I login",
+         "3":"login",
+         "4":"How do I login?",
+         "5":"How to open App",
+         "6":"how to open MB app",
+         "7":"difficulty in opening app"
+      },
+      "intent":"How do I login?"
+   },
+   {
+      "id":1077,
+      "variations":{
+         "0":"How do I view my Virtual Debit Card in the Mobile Banking App",
+         "1":"Tell me about How do I view my Virtual Debit Card in the Mobile Banking App",
+         "2":"I want to know about How do I view my Virtual Debit Card in the Mobile Banking App",
+         "3":"Give me information about How do I view my Virtual Debit Card in the Mobile Banking App",
+         "4":"Details on How do I view my Virtual Debit Card in the Mobile Banking App",
+         "5":"Can you explain How do I view my Virtual Debit Card in the Mobile Banking App",
+         "6":"Clarify How do I view my Virtual Debit Card in the Mobile Banking App",
+         "7":"How do I view my Virtual Debit Card in the Mobile Banking App?",
+         "8":"Show me virtual debit card"
+      },
+      "intent":"How do I view my Virtual Debit Card in the Mobile Banking App?"
+   },
+   {
+      "id":1078,
+      "variations":{
+         "0":"How do I start using the Mobile Banking App",
+         "1":"Tell me about How do I start using the Mobile Banking App",
+         "2":"I want to know about How do I start using the Mobile Banking App",
+         "3":"Give me information about How do I start using the Mobile Banking App",
+         "4":"Details on How do I start using the Mobile Banking App",
+         "5":"Can you explain How do I start using the Mobile Banking App",
+         "6":"Clarify How do I start using the Mobile Banking App",
+         "7":"How do I start using the Mobile Banking App"
+      },
+      "intent":"How do I start using the Mobile Banking App after opening my account?"
+   },
+   {
+      "id":1079,
+      "variations":{
+         "0":"How to I see my account statements through app?",
+         "1":" I want see my account statements through app?",
+         "2":"My account statement through app"
+      },
+      "intent":"How to I see my account statements through app?"
+   },
+   {
+      "id":1080,
+      "variations":{
+         "0":"Can I transfer money from AllinCall mobile banking app?",
+         "1":"how can i transfer money from AllinCall mobile app",
+         "2":"i want to transfer money from AllinCall mobile banking app",
+         "3":"i wish to transfer money from AllinCall mobile banking app",
+         "4":"transfer money using AllinCall mobile banking app"
+      },
+      "intent":"Can I transfer money from AllinCall mobile banking app?"
+   },
+   {
+      "id":1081,
+      "variations":{
+         "0":"How can I see my account",
+         "1":"Tell me about How can I see my account",
+         "2":"I want to know about How can I see my account",
+         "3":"Give me information about How can I see my account",
+         "4":"Details on How can I see my account",
+         "5":"Can you explain How can I see my account",
+         "6":"Clarify How can I see my account",
+         "7":"How can I see my account?"
+      },
+      "intent":"How can I see my account?"
+   },
+   {
+      "id":1082,
+      "variations":{
+         "0":"Tell me about what do I do after opening AllinCall",
+         "1":"I want to know about what do I do after opening AllinCall",
+         "2":"Give me information about what do I do after opening AllinCall",
+         "3":"What are the things I need to know about what do I do after opening AllinCall",
+         "4":"Details on what do I do after opening AllinCall",
+         "5":"What is meant by what do I do after opening AllinCall",
+         "6":"Meaning of what do I do after opening AllinCall",
+         "7":"Can you explain what do I do after opening AllinCall",
+         "8":"Clarify what is what do I do after opening AllinCall",
+         "9":"I am confused about what do I do after opening AllinCall",
+         "10":"what do I do after opening AllinCall?"
+      },
+      "intent":"what do I do after opening AllinCall?"
+   },
+   {
+      "id":1083,
+      "variations":{
+         "0":"How can I increase the credit limit on AllinCall #DreamDifferent Credit Card",
+         "1":"Tell me about How can I increase the credit limit on AllinCall #DreamDifferent Credit Card",
+         "2":"I want to know about How can I increase the credit limit on AllinCall #DreamDifferent Credit Card",
+         "3":"Give me information about How can I increase the credit limit on AllinCall #DreamDifferent Credit Card",
+         "4":"Details on How can I increase the credit limit on AllinCall #DreamDifferent Credit Card",
+         "5":"Can you explain How can I increase the credit limit on AllinCall #DreamDifferent Credit Card",
+         "6":"Clarify How can I increase the credit limit on AllinCall #DreamDifferent Credit Card",
+         "7":"How can I increase the credit limit on AllinCall #DreamDifferent Credit Card?"
+      },
+      "intent":"How can I increase the credit limit on AllinCall #DreamDifferent Credit Card?"
+   },
+   {
+      "id":1084,
+      "variations":{
+         "0":"I have a low credit score. Can I apply for AllinCall bank #DreamDifferent Credit Card?",
+         "1":"low credit score and want to apply for AllinCall bank DreamDifferent credit card ",
+         "2":"i have a low credit score. can i apply for AllinCall bank dreamdifferent credit card"
+      },
+      "intent":"I have a low credit score. Can I apply for AllinCall bank #DreamDifferent Credit Card?"
+   },
+   {
+      "id":1085,
+      "variations":{
+         "0":"Tell me about What is AllinCall bank  DreamDifferent",
+         "1":"I want to know about What is AllinCall bank   DreamDifferent",
+         "2":"Give me information about What is AllinCall bank  DreamDifferent",
+         "3":"What are the things I need to know about What is AllinCall bank  DreamDifferent",
+         "4":"Details on What is AllinCall bank   DreamDifferent",
+         "5":"What is meant by What is AllinCall bank   DreamDifferent",
+         "6":"Meaning of What is AllinCall bank   DreamDifferent",
+         "7":"Can you explain What is AllinCall bank   DreamDifferent",
+         "8":"Clarify what is What is AllinCall bank  DreamDifferent",
+         "9":"I am confused about What is AllinCall bank   DreamDifferent",
+         "10":"What is AllinCall bank   DreamDifferent"
+      },
+      "intent":"What is AllinCall bank DreamDifferent"
+   },
+   {
+      "id":1164,
+      "variations":{
+         "0":"I need to complete my video KYC, what should i do?",
+         "1":"I lost connection in the middle of performing my video KYC, what can i do?",
+         "2":"I need to restart my vidoeo KYC, what should i do?",
+         "3":"I dropped from the video kyc journey. What do I do?"
+      },
+      "intent":"I dropped from the video kyc journey. What do I do?"
+   },
+   {
+      "id":1086,
+      "variations":{
+         "0":"what is AllinCall bank DreamDifferent credit card",
+         "1":"give me information about AllinCall bank dreamdifferent credit card?",
+         "2":"information on AllinCall bank dreamdifferent credit card?",
+         "3":"information about AllinCall bank dreamdifferent credit card?",
+         "4":"i want to know about AllinCall bank dreamdifferent credit card?",
+         "5":"what do you mean by AllinCall bank dreamdifferent credit card?",
+         "6":"can you explain AllinCall bank dreamdifferent credit card?",
+         "7":"i am confused about AllinCall bank dreamdifferent credit card?",
+         "8":"what you meant by AllinCall bank dreamdifferent credit card?",
+         "9":"details about AllinCall bank dreamdifferent credit card?",
+         "10":"details on AllinCall bank dreamdifferent credit card?",
+         "11":"what are the things i need to know about AllinCall bank dreamdifferent credit card?",
+         "12":"explain AllinCall bank dreamdifferent credit card?",
+         "13":"tell me about AllinCall bank dreamdifferent credit card?",
+         "14":"explain what is AllinCall bank dreamdifferent credit card?",
+         "15":"help me understand AllinCall bank dreamdifferent credit card?",
+         "16":"What is AllinCall bank DreamDifferent Credit card?",
+         "17":"how to apply for credit card",
+         "18":"i want credit card",
+         "19":"pl new credit card"
+      },
+      "intent":"What is AllinCall bank DreamDifferent Credit card?"
+   },
+   {
+      "id":1087,
+      "variations":{
+         "0":"Tell me about What will be the credit",
+         "1":"I want to know about What will be the credit",
+         "2":"Give me information about What will be the credit",
+         "3":"What are the things I need to know about What will be the credit",
+         "4":"Details on What will be the credit",
+         "5":"What is meant by What will be the credit",
+         "6":"Meaning of What will be the credit",
+         "7":"Can you explain What will be the credit",
+         "8":"Clarify what is What will be the credit",
+         "9":"I am confused about What will be the credit",
+         "10":"What will be the credit"
+      },
+      "intent":"What will be the credit"
+   },
+   {
+      "id":1088,
+      "variations":{
+         "0":"How can I pay DTH  bill",
+         "1":"Tell me about  How can I pay DTH  bill",
+         "2":"I want to know about  How can I pay DTH  bill",
+         "3":"Give me information about  How can I pay DTH  bill",
+         "4":"Details on  How can I pay DTH  bill",
+         "5":"Can you explain  How can I pay DTH  bill",
+         "6":"Clarify  How can I pay DTH  bill",
+         "7":" How can I pay DTH  bill?"
+      },
+      "intent":"How can I pay DTH bill?"
+   },
+   {
+      "id":1089,
+      "variations":{
+         "0":"How can I pay electricity bill",
+         "1":"Tell me about  How can I pay electricity bill",
+         "2":"I want to know about  How can I pay electricity bill",
+         "3":"Give me information about  How can I pay electricity bill",
+         "4":"Details on  How can I pay electricity bill",
+         "5":"Can you explain  How can I pay electricity bill",
+         "6":"Clarify  How can I pay electricity bill",
+         "7":" How can I pay electricity bill?"
+      },
+      "intent":"How can I pay electricity bill?"
+   },
+   {
+      "id":1090,
+      "variations":{
+         "0":"Can I pay electricity bills",
+         "1":"Tell me about Can I pay electricity bills",
+         "2":"I want to know about Can I pay electricity bills",
+         "3":"Give me information about Can I pay electricity bills",
+         "4":"Details on Can I pay electricity bills",
+         "5":"Can you explain Can I pay electricity bills",
+         "6":"Clarify Can I pay electricity bills",
+         "7":"Can I pay electricity bills through my AllinCall account?"
+      },
+      "intent":"Can I pay electricity bills through my AllinCall account?"
+   },
+   {
+      "id":1091,
+      "variations":{
+         "0":"Can you explain Can I pay phone bills through my AllinCall account",
+         "1":"Clarify Can I pay phone bills through my AllinCall account",
+         "2":"Can I recharge my phone through my AllinCall account? How can I do mobile recharge online through mobile bank app?",
+         "3":"Can I recharge my phone through my AllinCall account",
+         "4":"How can I do mobile recharge online through mobile bank app?"
+      },
+      "intent":"Can I recharge my phone through my AllinCall account? How can I do mobile recharge online through mobile bank app?"
+   },
+   {
+      "id":1092,
+      "variations":{
+         "0":"Can I set autopay bill option through my AllinCall bank Account? How can I set the autopay option",
+         "1":"Tell me about Can I set autopay bill option through my AllinCall bank Account? How can I set the autopay option",
+         "2":"I want to know about Can I set autopay bill option through my AllinCall bank Account? How can I set the autopay option",
+         "3":"Give me information about Can I set autopay bill option through my AllinCall bank Account? How can I set the autopay option",
+         "4":"Details on Can I set autopay bill option through my AllinCall bank Account? How can I set the autopay option",
+         "5":"Can you explain Can I set autopay bill option through my AllinCall bank Account? How can I set the autopay option",
+         "6":"Clarify Can I set autopay bill option through my AllinCall bank Account? How can I set the autopay option",
+         "7":"Can I set autopay bill option through my AllinCall bank Account? How can I set the autopay option?"
+      },
+      "intent":"Can I set autopay bill option through my AllinCall bank Account? How can I set the autopay option?"
+   },
+   {
+      "id":1165,
+      "variations":{
+         "0":"I have problems with video KYC",
+         "1":"Why i am being restricted to perform video KYC?",
+         "2":"How do i Perform video KYC if im getting an error?",
+         "3":"Why can't I do Video KYC?"
+      },
+      "intent":"Why can't I do Video KYC?"
+   },
+   {
+      "id":1093,
+      "variations":{
+         "0":"How can I add billers through my AllinCall account?",
+         "1":"Tell me about How can I add billers through my AllinCall account?",
+         "2":"I want to know about How can I add billers through my AllinCall account?",
+         "3":"Give me information about How can I add billers through my AllinCall account?",
+         "4":"Details on How can I add billers through my AllinCall account?",
+         "5":"Can you explain How can I add billers through my AllinCall account?",
+         "6":"Clarify How can I add billers through my AllinCall account?",
+         "7":"How can I add billers through my AllinCall account?"
+      },
+      "intent":"How can I add billers through my AllinCall account?"
+   },
+   {
+      "id":1094,
+      "variations":{
+         "0":"How can I cancel the autopay of my bill payments",
+         "1":"Tell me about How can I cancel the autopay of my bill payments",
+         "2":"I want to know about How can I cancel the autopay of my bill payments",
+         "3":"Give me information about How can I cancel the autopay of my bill payments",
+         "4":"Details on How can I cancel the autopay of my bill payments",
+         "5":"Can you explain How can I cancel the autopay of my bill payments",
+         "6":"Clarify How can I cancel the autopay of my bill payments",
+         "7":"How can I cancel the autopay of my bill payments?"
+      },
+      "intent":"How can I cancel the autopay of my bill payments?"
+   },
+   {
+      "id":1095,
+      "variations":{
+         "0":"How can I view my recent bill payments made",
+         "1":"Tell me about How can I view my recent bill payments made",
+         "2":"I want to know about How can I view my recent bill payments made",
+         "3":"Give me information about How can I view my recent bill payments made",
+         "4":"Details on How can I view my recent bill payments made",
+         "5":"Can you explain How can I view my recent bill payments made",
+         "6":"Clarify How can I view my recent bill payments made",
+         "7":"How can I view my recent bill payments made",
+         "8":"How can I view my recent bill payments made?"
+      },
+      "intent":"How can I view my recent bill payments made through my AllinCall account?"
+   },
+   {
+      "id":1096,
+      "variations":{
+         "0":"Tell me about What bills can I pay through AllinCall mobile app",
+         "1":"I want to know about What bills can I pay through AllinCall mobile app",
+         "2":"Give me information about What bills can I pay through AllinCall mobile app",
+         "3":"What are the things I need to know about What bills can I pay through AllinCall mobile app",
+         "4":"Details on What bills can I pay through AllinCall mobile app",
+         "5":"What is meant by What bills can I pay through AllinCall mobile app",
+         "6":"Meaning of What bills can I pay through AllinCall mobile app",
+         "7":"Can you explain What bills can I pay through AllinCall mobile app",
+         "8":"Clarify what is What bills can I pay through AllinCall mobile app",
+         "9":"I am confused about What bills can I pay through AllinCall mobile app",
+         "10":"What bills can I pay through AllinCall mobile app?",
+         "11":"bill pay",
+         "12":"billpay",
+         "13":"Autopay"
+      },
+      "intent":"What bills can I pay through AllinCall mobile app?"
+   },
+   {
+      "id":1097,
+      "variations":{
+         "0":"How do I apply for a consumer finance loan",
+         "1":"Tell me about How do I apply for a consumer finance loan",
+         "2":"I want to know about How do I apply for a consumer finance loan",
+         "3":"Give me information about How do I apply for a consumer finance loan",
+         "4":"Details on How do I apply for a consumer finance loan",
+         "5":"Can you explain How do I apply for a consumer finance loan",
+         "6":"Clarify How do I apply for a consumer finance loan",
+         "7":"How do I apply for a consumer finance loan?"
+      },
+      "intent":"How do I apply for a consumer finance loan?"
+   },
+   {
+      "id":1098,
+      "variations":{
+         "0":"How do I check pre-approved offers for AllinCall Consumer finance",
+         "1":"Tell me about How do I check pre-approved offers for AllinCall Consumer finance",
+         "2":"I want to know about How do I check pre-approved offers for AllinCall Consumer finance",
+         "3":"Give me information about How do I check pre-approved offers for AllinCall Consumer finance",
+         "4":"Details on How do I check pre-approved offers for AllinCall Consumer finance",
+         "5":"Can you explain How do I check pre-approved offers for AllinCall Consumer finance",
+         "6":"Clarify How do I check pre-approved offers for AllinCall Consumer finance",
+         "7":"How do I check pre-approved offers for AllinCall Consumer finance?"
+      },
+      "intent":"How do I check pre-approved offers for AllinCall Consumer finance?"
+   },
+   {
+      "id":1162,
+      "variations":{
+         "0":"My communication address is different from my Aadhaar address. Can i add a new address to perform my video KYC?",
+         "1":"If my communication address is different from my Aadhaar address, am i alowed to perform video KYC?",
+         "2":"My communication address is different from my Aadhaar address. Can I carry out the video KYC process?"
+      },
+      "intent":"My communication address is different from my Aadhaar address. Can I carry out the video KYC process?"
+   },
+   {
+      "id":1099,
+      "variations":{
+         "0":"Tell me about features of AllinCall Consumer Finance",
+         "1":"I want to know about features of AllinCall Consumer Finance",
+         "2":"Give me information about features of AllinCall Consumer Finance",
+         "3":"What are the things I need to know about features of AllinCall Consumer Finance",
+         "4":"Details on features of AllinCall Consumer Finance",
+         "5":"What is meant by features of AllinCall Consumer Finance",
+         "6":"Meaning of features of AllinCall Consumer Finance",
+         "7":"Can you explain features of AllinCall Consumer Finance",
+         "8":"Clarify what is features of AllinCall Consumer Finance",
+         "9":"I am confused about features of AllinCall Consumer Finance",
+         "10":"What are the features of AllinCall Consumer Finance ?"
+      },
+      "intent":"What are the features of AllinCall Consumer Finance ?"
+   },
+   {
+      "id":1100,
+      "variations":{
+         "0":"Can I book a Fixed Deposit ",
+         "1":"Tell me about Can I book a Fixed Deposit",
+         "2":"I want to know about Can I book a Fixed Deposit ",
+         "3":"Give me information about Can I book a Fixed Deposit ",
+         "4":"Details on Can I book a Fixed Deposit ",
+         "5":"Can you explain Can I book a Fixed Deposit ",
+         "6":"Clarify Can I book a Fixed Deposit",
+         "7":"Can I book a Fixed Deposit ",
+         "8":"Can I book Term Deposit",
+         "9":"Can I book a Fixed Deposit?",
+         "10":"how do i open fixed deposit",
+         "11":"Can I book a Fixed Deposit through my AllinCall bank Account?"
+      },
+      "intent":"Can I book a Fixed Deposit through my AllinCall bank Account?"
+   },
+   {
+      "id":1102,
+      "variations":{
+         "0":"How can I check the maturity date of my fixed deposit online",
+         "1":"Tell me about How can I check the maturity date of my fixed deposit online",
+         "2":"I want to know about How can I check the maturity date of my fixed deposit online",
+         "3":"Give me information about How can I check the maturity date of my fixed deposit online",
+         "4":"Details on How can I check the maturity date of my fixed deposit online",
+         "5":"Can you explain How can I check the maturity date of my fixed deposit online",
+         "6":"Clarify How can I check the maturity date of my fixed deposit online",
+         "7":"How can I check the maturity date of my fixed deposit online?"
+      },
+      "intent":"How can I check the maturity date of my fixed deposit online?"
+   },
+   {
+      "id":1103,
+      "variations":{
+         "0":"How to check the history of my term deposit",
+         "1":"Tell me about How to check the history of my term deposit",
+         "2":"I want to know about How to check the history of my term deposit",
+         "3":"Give me information about How to check the history of my term deposit",
+         "4":"Details on How to check the history of my term deposit",
+         "5":"Can you explain How to check the history of my term deposit",
+         "6":"Clarify How to check the history of my term deposit",
+         "7":"How to check the history of my term deposit?"
+      },
+      "intent":"How to check the history of my term deposit?"
+   },
+   {
+      "id":1104,
+      "variations":{
+         "0":"Tell me about benefits of Sweepin facility",
+         "1":"I want to know about benefits of Sweepin facility",
+         "2":"Give me information about benefits of Sweepin facility",
+         "3":"What are the things I need to know about benefits of Sweepin facility",
+         "4":"Details on benefits of Sweepin facility",
+         "5":"What is meant by benefits of Sweepin facility",
+         "6":"Meaning of benefits of Sweepin facility",
+         "7":"Can you explain benefits of Sweepin facility",
+         "8":"Clarify what is benefits of Sweepin facility",
+         "9":"I am confused about benefits of Sweepin facility",
+         "10":"What are the benefits of Sweepin facility?",
+         "11":"why would i opt for sweepin facility",
+         "12":"What are the benefits of Sweepin facility?"
+      },
+      "intent":"What are the benefits of Sweepin facility?"
+   },
+   {
+      "id":1105,
+      "variations":{
+         "0":"Tell me about What documents do I need to book an FD",
+         "1":"I want to know about What documents do I need to book an FD",
+         "2":"Give me information about What documents do I need to book an FD",
+         "3":"What are the things I need to know about What documents do I need to book an FD",
+         "4":"Details on What documents do I need to book an FD",
+         "5":"What is meant by What documents do I need to book an FD",
+         "6":"Meaning of What documents do I need to book an FD",
+         "7":"Can you explain What documents do I need to book an FD",
+         "8":"Clarify what is What documents do I need to book an FD",
+         "9":"I am confused about What documents do I need to book an FD",
+         "10":"What documents do I need to book an FD? "
+      },
+      "intent":"What documents do I need to book an FD?"
+   },
+   {
+      "id":1106,
+      "variations":{
+         "0":"Tell me about autosweep facility",
+         "1":"I want to know about autosweep facility",
+         "2":"What are the things I need to know about autosweep facility",
+         "3":"Details on autosweep facility",
+         "4":"What is meant by autosweep facility",
+         "5":"Meaning of autosweep facility",
+         "6":"Can you explain autosweep facility",
+         "7":"Clarify what is autosweep facility",
+         "8":"I am confused about autosweep facility",
+         "9":"What is autosweep facility?",
+         "10":"How to avail autosweep",
+         "11":"How can I apply for autosweep",
+         "12":"i want autosweep ",
+         "13":"how to get auto sweep "
+      },
+      "intent":"What is autosweep facility?"
+   },
+   {
+      "id":1107,
+      "variations":{
+         "0":"What is the interest rate on AllinCall FD?",
+         "1":"What is the interest rate on AllinCall Fixed Deposit",
+         "2":"i want to know interest rates on AllinCall Fixed Deposit",
+         "3":"i want to know interest rates on AllinCall FD",
+         "4":"FD interest rates",
+         "5":"interest rates on AllinCall Fixed Deposit"
+      },
+      "intent":"What is the interest rate on AllinCall FD?"
+   },
+   {
+      "id":1108,
+      "variations":{
+         "0":"Tell me about minimum amount to open Fixed Deposit",
+         "1":"I want to know about minimum amount to open Fixed Deposit",
+         "2":"Give me information about minimum amount to open Fixed Deposit",
+         "3":"What are the things I need to know about minimum amount to open Fixed Deposit",
+         "4":"Details on minimum amount to open Fixed Deposit",
+         "5":"What is meant by minimum amount to open Fixed Deposit",
+         "6":"Meaning of minimum amount to open Fixed Deposit",
+         "7":"Can you explain minimum amount to open Fixed Deposit",
+         "8":"Clarify what is minimum amount to open Fixed Deposit",
+         "9":"I am confused about minimum amount to open Fixed Deposit",
+         "10":"What is the minimum amount to open Fixed Deposit?"
+      },
+      "intent":"What is the minimum amount to open Fixed Deposit?"
+   },
+   {
+      "id":1109,
+      "variations":{
+         "0":"Why should I book an Fixed Deposit",
+         "1":"Tell me about Why should I book an Fixed Deposit",
+         "2":"I want to know about Why should I book an Fixed Deposit",
+         "3":"Give me information about Why should I book an Fixed Deposit",
+         "4":"Details on Why should I book an Fixed Deposit",
+         "5":"Can you explain Why should I book an Fixed Deposit",
+         "6":"Clarify Why should I book an Fixed Deposit",
+         "7":"Why should I book an Fixed Deposit?  "
+      },
+      "intent":"Why should I book an Fixed Deposit?"
+   },
+   {
+      "id":1110,
+      "variations":{
+         "0":"Tell me about AllinCall Group Accident Protect",
+         "1":"I want to know about AllinCall Group Accident Protect",
+         "2":"Give me information about AllinCall Group Accident Protect",
+         "3":"What are the things I need to know about AllinCall Group Accident Protect",
+         "4":"Details on AllinCall Group Accident Protect",
+         "5":"What is meant by AllinCall Group Accident Protect",
+         "6":"Meaning of AllinCall Group Accident Protect",
+         "7":"Can you explain AllinCall Group Accident Protect",
+         "8":"Clarify what is AllinCall Group Accident Protect",
+         "9":"I am confused about AllinCall Group Accident Protect",
+         "10":"What is AllinCall Group Accident Protect?"
+      },
+      "intent":"What is AllinCall Group Accident Protect?"
+   },
+   {
+      "id":1122,
+      "variations":{
+         "0":"How can I apply for AllinCall Gold Loan",
+         "1":"Tell me about How can I apply for AllinCall Gold Loan",
+         "2":"I want to know about How can I apply for AllinCall Gold Loan",
+         "3":"Give me information about How can I apply for AllinCall Gold Loan",
+         "4":"Details on How can I apply for AllinCall Gold Loan",
+         "5":"Can you explain How can I apply for AllinCall Gold Loan",
+         "6":"Clarify How can I apply for AllinCall Gold Loan",
+         "7":"How can I apply for AllinCall Gold Loan?"
+      },
+      "intent":"How can I apply for AllinCall Gold Loan?"
+   },
+   {
+      "id":1111,
+      "variations":{
+         "0":"Tell me about the premium amount of AllinCall Group Accident Protect",
+         "1":"I want to know about the premium amount of AllinCall Group Accident Protect",
+         "2":"Give me information about the premium amount of AllinCall Group Accident Protect",
+         "3":"What are the things I need to know about the premium amount of AllinCall Group Accident Protect",
+         "4":"Details on the premium amount of AllinCall Group Accident Protect",
+         "5":"What is meant by the premium amount of AllinCall Group Accident Protect",
+         "6":"Meaning of the premium amount of AllinCall Group Accident Protect",
+         "7":"Can you explain the premium amount of AllinCall Group Accident Protect",
+         "8":"Clarify what is the premium amount of AllinCall Group Accident Protect",
+         "9":"I am confused about the premium amount of AllinCall Group Accident Protect",
+         "10":"What is the premium amount of AllinCall Group Accident Protect?"
+      },
+      "intent":"What is the premium amount of AllinCall Group Accident Protect?"
+   },
+   {
+      "id":1112,
+      "variations":{
+         "0":"Can I apply for Sovereign Gold Bond through? How can I apply for Sovereign Gold Bond online",
+         "1":"Tell me about Can I apply for Sovereign Gold Bond through? How can I apply for Sovereign Gold Bond online",
+         "2":"I want to know about Can I apply for Sovereign Gold Bond through? How can I apply for Sovereign Gold Bond online",
+         "3":"Give me information about Can I apply for Sovereign Gold Bond through? How can I apply for Sovereign Gold Bond online",
+         "4":"Details on Can I apply for Sovereign Gold Bond through? How can I apply for Sovereign Gold Bond online",
+         "5":"Can you explain Can I apply for Sovereign Gold Bond through? How can I apply for Sovereign Gold Bond online",
+         "6":"Clarify Can I apply for Sovereign Gold Bond through AllinCall bank Account? How can I apply for Sovereign Gold Bond online",
+         "7":"Can I apply for Sovereign Gold Bond through? How can I apply for Sovereign Gold Bond online?",
+         "8":"Can I apply for Sovereign Gold Bond? How can I apply for Sovereign Gold Bond online?"
+      },
+      "intent":"Can I apply for Sovereign Gold Bond through AllinCall bank Account? How can I apply for Sovereign Gold Bond online?"
+   },
+   {
+      "id":1113,
+      "variations":{
+         "0":"Can I use Sovereign Gold Bond as collateral for loans",
+         "1":"Tell me about Can I use Sovereign Gold Bond as collateral for loans",
+         "2":"I want to know about Can I use Sovereign Gold Bond as collateral for loans",
+         "3":"Give me information about Can I use Sovereign Gold Bond as collateral for loans",
+         "4":"Details on Can I use Sovereign Gold Bond as collateral for loans",
+         "5":"Can you explain Can I use Sovereign Gold Bond as collateral for loans",
+         "6":"Clarify Can I use Sovereign Gold Bond as collateral for loans",
+         "7":"Can I use Sovereign Gold Bond as collateral for loans?"
+      },
+      "intent":"Can I use Sovereign Gold Bond as collateral for loans?"
+   },
+   {
+      "id":1114,
+      "variations":{
+         "0":"Do I need to visit a bank branch to invest in Sovereign Gold Bonds",
+         "1":"Tell me about Do I need to visit a bank branch to invest in Sovereign Gold Bonds",
+         "2":"I want to know about Do I need to visit a bank branch to invest in Sovereign Gold Bonds",
+         "3":"Give me information about Do I need to visit a bank branch to invest in Sovereign Gold Bonds",
+         "4":"Details on Do I need to visit a bank branch to invest in Sovereign Gold Bonds",
+         "5":"Can you explain Do I need to visit a bank branch to invest in Sovereign Gold Bonds",
+         "6":"Clarify Do I need to visit a bank branch to invest in Sovereign Gold Bonds",
+         "7":"Do I need to visit a bank branch to invest in Sovereign Gold Bonds?"
+      },
+      "intent":"Do I need to visit a bank branch to invest in Sovereign Gold Bonds?"
+   },
+   {
+      "id":1115,
+      "variations":{
+         "0":"Tell me about  What are Sovereign Gold Bonds",
+         "1":"I want to know about  What are Sovereign Gold Bonds",
+         "2":"Give me information about  What are Sovereign Gold Bonds",
+         "3":"What are the things I need to know about  What are Sovereign Gold Bonds",
+         "4":"Details on  What are Sovereign Gold Bonds",
+         "5":"What is meant by  What are Sovereign Gold Bonds",
+         "6":"Meaning of  What are Sovereign Gold Bonds",
+         "7":"Can you explain  What are Sovereign Gold Bonds",
+         "8":"Clarify what is  What are Sovereign Gold Bonds",
+         "9":"I am confused about  What are Sovereign Gold Bonds",
+         "10":"What are Sovereign Gold Bonds?"
+      },
+      "intent":"What are Sovereign Gold Bonds?"
+   },
+   {
+      "id":1135,
+      "variations":{
+         "0":"Tell me about Secure One",
+         "1":"I want to know about Secure One",
+         "2":"Give me information about Secure One",
+         "3":"What are the things I need to know about Secure One",
+         "4":"Details on Secure One",
+         "5":"What is meant by Secure One",
+         "6":"Meaning of Secure One",
+         "7":"Can you explain Secure One",
+         "8":"Clarify what is Secure One",
+         "9":"I am confused about Secure One",
+         "10":"What is Secure One?"
+      },
+      "intent":"What is Secure One?"
+   },
+   {
+      "id":1116,
+      "variations":{
+         "0":"Tell me about the benefits of investing in Sovereign Gold Bonds",
+         "1":"I want to know about the benefits of investing in Sovereign Gold Bonds",
+         "2":"Give me information about the benefits of investing in Sovereign Gold Bonds",
+         "3":"What are the things I need to know about the benefits of investing in Sovereign Gold Bonds",
+         "4":"Details on the benefits of investing in Sovereign Gold Bonds",
+         "5":"What is meant by the benefits of investing in Sovereign Gold Bonds",
+         "6":"Meaning of the benefits of investing in Sovereign Gold Bonds",
+         "7":"Can you explain the benefits of investing in Sovereign Gold Bonds",
+         "8":"Clarify what is the benefits of investing in Sovereign Gold Bonds",
+         "9":"I am confused about the benefits of investing in Sovereign Gold Bonds",
+         "10":"What are the benefits of investing in Sovereign Gold Bonds?"
+      },
+      "intent":"What are the benefits of investing in Sovereign Gold Bonds?"
+   },
+   {
+      "id":1117,
+      "variations":{
+         "0":"Tell me about the minimum investment amount in Sovereign Gold Bonds",
+         "1":"I want to know about the minimum investment amount in Sovereign Gold Bonds",
+         "2":"Give me information about the minimum investment amount in Sovereign Gold Bonds",
+         "3":"What are the things I need to know about the minimum investment amount in Sovereign Gold Bonds",
+         "4":"Details on the minimum investment amount in Sovereign Gold Bonds",
+         "5":"What is meant by the minimum investment amount in Sovereign Gold Bonds",
+         "6":"Meaning of the minimum investment amount in Sovereign Gold Bonds",
+         "7":"Can you explain the minimum investment amount in Sovereign Gold Bonds",
+         "8":"Clarify what is the minimum investment amount in Sovereign Gold Bonds",
+         "9":"I am confused about the minimum investment amount in Sovereign Gold Bonds",
+         "10":"What is the minimum investment amount in Sovereign Gold Bonds?"
+      },
+      "intent":"What is the minimum investment amount in Sovereign Gold Bonds?"
+   },
+   {
+      "id":1118,
+      "variations":{
+         "0":"Tell me about the rate of interest of Sovereign Gold Bonds and how will the interest be paid",
+         "1":"I want to know about the rate of interest of Sovereign Gold Bonds and how will the interest be paid",
+         "2":"Give me information about the rate of interest of Sovereign Gold Bonds and how will the interest be paid",
+         "3":"What are the things I need to know about the rate of interest of Sovereign Gold Bonds and how will the interest be paid",
+         "4":"Details on the rate of interest of Sovereign Gold Bonds and how will the interest be paid",
+         "5":"What is meant by the rate of interest of Sovereign Gold Bonds and how will the interest be paid",
+         "6":"Meaning of the rate of interest of Sovereign Gold Bonds and how will the interest be paid",
+         "7":"Can you explain the rate of interest of Sovereign Gold Bonds and how will the interest be paid",
+         "8":"Clarify what is the rate of interest of Sovereign Gold Bonds and how will the interest be paid",
+         "9":"I am confused about the rate of interest of Sovereign Gold Bonds and how will the interest be paid",
+         "10":"What is the rate of interest of Sovereign Gold Bonds and how will the interest be paid?"
+      },
+      "intent":"What is the rate of interest of Sovereign Gold Bonds and how will the interest be paid?"
+   },
+   {
+      "id":1120,
+      "variations":{
+         "0":"Can I foreclose the gold loan earlier",
+         "1":"Tell me about Can I foreclose the gold loan earlier",
+         "2":"I want to know about Can I foreclose the gold loan earlier",
+         "3":"Give me information about Can I foreclose the gold loan earlier",
+         "4":"Details on Can I foreclose the gold loan earlier",
+         "5":"Can you explain Can I foreclose the gold loan earlier",
+         "6":"Clarify Can I foreclose the gold loan earlier",
+         "7":"Can I foreclose the gold loan earlier?"
+      },
+      "intent":"Can I foreclose the gold loan earlier?"
+   },
+   {
+      "id":1121,
+      "variations":{
+         "0":"Do I need to provide any income documents for gold loan",
+         "1":"Tell me about Do I need to provide any income documents for gold loan",
+         "2":"I want to know about Do I need to provide any income documents for gold loan",
+         "3":"Give me information about Do I need to provide any income documents for gold loan",
+         "4":"Details on Do I need to provide any income documents for gold loan",
+         "5":"Can you explain Do I need to provide any income documents for gold loan",
+         "6":"Clarify Do I need to provide any income documents for gold loan",
+         "7":"Do I need to provide any income documents for gold loan?"
+      },
+      "intent":"Do I need to provide any income documents for gold loan?"
+   },
+   {
+      "id":1123,
+      "variations":{
+         "0":"Tell me about the features of AllinCall Gold Loan",
+         "1":"I want to know about the features of AllinCall Gold Loan",
+         "2":"Give me information about the features of AllinCall Gold Loan",
+         "3":"What are the things I need to know about the features of AllinCall Gold Loan",
+         "4":"Details on the features of AllinCall Gold Loan",
+         "5":"What is meant by the features of AllinCall Gold Loan",
+         "6":"Meaning of the features of AllinCall Gold Loan",
+         "7":"Can you explain the features of AllinCall Gold Loan",
+         "8":"Clarify what is the features of AllinCall Gold Loan",
+         "9":"I am confused about the features of AllinCall Gold Loan",
+         "10":"What are the features of AllinCall Gold Loan?"
+      },
+      "intent":"What are the features of AllinCall Gold Loan?"
+   },
+   {
+      "id":1124,
+      "variations":{
+         "0":"Tell me about the processing fees for gold loan",
+         "1":"I want to know about the processing fees for gold loan",
+         "2":"Give me information about the processing fees for gold loan",
+         "3":"What are the things I need to know about the processing fees for gold loan",
+         "4":"Details on the processing fees for gold loan",
+         "5":"What is meant by the processing fees for gold loan",
+         "6":"Meaning of the processing fees for gold loan",
+         "7":"Can you explain the processing fees for gold loan",
+         "8":"Clarify what is the processing fees for gold loan",
+         "9":"I am confused about the processing fees for gold loan",
+         "10":"What are the processing fees for gold loan?"
+      },
+      "intent":"What are the processing fees for gold loan?"
+   },
+   {
+      "id":1125,
+      "variations":{
+         "0":"Can I do Systematic Investment Plan (SIP) through the investment account",
+         "1":"Tell me about Can I do Systematic Investment Plan (SIP) through the investment account",
+         "2":"I want to know about Can I do Systematic Investment Plan (SIP) through the investment account",
+         "3":"Give me information about Can I do Systematic Investment Plan (SIP) through the investment account",
+         "4":"Details on Can I do Systematic Investment Plan (SIP) through the investment account",
+         "5":"Can you explain Can I do Systematic Investment Plan (SIP) through the investment account",
+         "6":"Clarify Can I do Systematic Investment Plan (SIP) through the investment account",
+         "7":"Can I do Systematic Investment Plan (SIP) through the investment account?",
+         "8":"Can I do mutual fund through the investment account?",
+         "9":"Can I do Systematic Investment Plan (SIP) or Mutual funds through the investment account?",
+         "10":"How to apply for Mutual funds"
+      },
+      "intent":"Can I do Systematic Investment Plan (SIP) through the investment account?"
+   },
+   {
+      "id":1126,
+      "variations":{
+         "0":"Can I open investment account and how can I open an investment account through my AllinCall bank bank account",
+         "1":"Tell me about Can I open investment account and how can I open an investment account through my AllinCall bank bank account",
+         "2":"I want to know about Can I open investment account and how can I open an investment account through my AllinCall bank bank account",
+         "3":"Give me information about Can I open investment account and how can I open an investment account through my AllinCall bank bank account",
+         "4":"Details on Can I open investment account and how can I open an investment account through my AllinCall bank bank account",
+         "5":"Can you explain Can I open investment account and how can I open an investment account through my AllinCall bank bank account",
+         "6":"Clarify Can I open investment account and how can I open an investment account through my AllinCall bank bank account",
+         "7":"Can I open investment account and how can I open an investment account through my AllinCall bank bank account? "
+      },
+      "intent":"Can I open investment account and how can I open an investment account through my AllinCall bank bank account?"
+   },
+   {
+      "id":1127,
+      "variations":{
+         "0":"Do I need a demat account to open investment account",
+         "1":"Tell me about Do I need a demat account to open investment account",
+         "2":"I want to know about Do I need a demat account to open investment account",
+         "3":"Give me information about Do I need a demat account to open investment account",
+         "4":"Details on Do I need a demat account to open investment account",
+         "5":"Can you explain Do I need a demat account to open investment account",
+         "6":"Clarify Do I need a demat account to open investment account",
+         "7":"Do I need a demat account to open investment account? "
+      },
+      "intent":"Do I need a demat account to open investment account?"
+   },
+   {
+      "id":1128,
+      "variations":{
+         "0":"Tell me about the benefits of SIP",
+         "1":"I want to know about the benefits of SIP",
+         "2":"Give me information about the benefits of SIP",
+         "3":"What are the things I need to know about the benefits of SIP",
+         "4":"Details on the benefits of SIP",
+         "5":"What is meant by the benefits of SIP",
+         "6":"Meaning of the benefits of SIP",
+         "7":"Can you explain the benefits of SIP",
+         "8":"Clarify what is the benefits of SIP",
+         "9":"I am confused about the benefits of SIP",
+         "10":"What are the benefits of SIP?"
+      },
+      "intent":"What are the benefits of SIP?"
+   },
+   {
+      "id":1129,
+      "variations":{
+         "0":"Tell me about charges to open an Investment Account",
+         "1":"I want to know about charges to open an Investment Account",
+         "2":"Give me information about charges to open an Investment Account",
+         "3":"What are the things I need to know about charges to open an Investment Account",
+         "4":"Details on charges to open an Investment Account",
+         "5":"What is meant by charges to open an Investment Account",
+         "6":"Meaning of charges to open an Investment Account",
+         "7":"Can you explain charges to open an Investment Account",
+         "8":"Clarify what is charges to open an Investment Account",
+         "9":"I am confused about charges to open an Investment Account",
+         "10":"What are the charges to open an Investment Account?"
+      },
+      "intent":"What are the charges to open an Investment Account?"
+   },
+   {
+      "id":1130,
+      "variations":{
+         "0":"Tell me about investment account in AllinCall",
+         "1":"I want to know about investment account in AllinCall",
+         "2":"Give me information about investment account in AllinCall",
+         "3":"What are the things I need to know about investment account in AllinCall",
+         "4":"Details on investment account in AllinCall",
+         "5":"What is meant by investment account in AllinCall",
+         "6":"Meaning of investment account in AllinCall",
+         "7":"Can you explain investment account in AllinCall",
+         "8":"Clarify what is investment account in AllinCall",
+         "9":"I am confused about investment account in AllinCall",
+         "10":"What is investment account in AllinCall?"
+      },
+      "intent":"What is investment account in AllinCall?"
+   },
+   {
+      "id":1131,
+      "variations":{
+         "0":"Tell me about the process for redeemIng mutual funds",
+         "1":"I want to know about the process for redeemIng mutual funds",
+         "2":"Give me information about the process for redeemIng mutual funds",
+         "3":"What are the things I need to know about the process for redeemIng mutual funds",
+         "4":"Details on the process for redeemIng mutual funds",
+         "5":"What is meant by the process for redeemIng mutual funds",
+         "6":"Meaning of the process for redeemIng mutual funds",
+         "7":"Can you explain the process for redeemIng mutual funds",
+         "8":"Clarify what is the process for redeemIng mutual funds",
+         "9":"I am confused about the process for redeemIng mutual funds",
+         "10":"What is the process for redeemIng mutual funds?"
+      },
+      "intent":"What is the process for redeemIng mutual funds?"
+   },
+   {
+      "id":1132,
+      "variations":{
+         "0":"Tell me about the process for redeemIng mutual What needs to be done to get mutual fund statement",
+         "1":"I want to know about the process for redeemIng mutual What needs to be done to get mutual fund statement",
+         "2":"Give me information about the process for redeemIng mutual What needs to be done to get mutual fund statement",
+         "3":"What are the things I need to know about the process for redeemIng mutual What needs to be done to get mutual fund statement",
+         "4":"Details on the process for redeemIng mutual What needs to be done to get mutual fund statement",
+         "5":"What is meant by the process for redeemIng mutual What needs to be done to get mutual fund statement",
+         "6":"Meaning of the process for redeemIng mutual What needs to be done to get mutual fund statement",
+         "7":"Can you explain the process for redeemIng mutual What needs to be done to get mutual fund statement",
+         "8":"Clarify what is the process for redeemIng mutual What needs to be done to get mutual fund statement",
+         "9":"I am confused about the process for redeemIng mutual What needs to be done to get mutual fund statement",
+         "10":"What needs to be done to get mutual fund statement"
+      },
+      "intent":"What needs to be done to get mutual fund statement"
+   },
+   {
+      "id":1133,
+      "variations":{
+         "0":"Can I apply for life insurance policy through my AllinCall bank app",
+         "1":"Tell me about Can I apply for life insurance policy through my AllinCall bank app",
+         "2":"I want to know about Can I apply for life insurance policy through my AllinCall bank app",
+         "3":"Give me information about Can I apply for life insurance policy through my AllinCall bank app",
+         "4":"Details on Can I apply for life insurance policy through my AllinCall bank app",
+         "5":"Can you explain Can I apply for life insurance policy through my AllinCall bank app",
+         "6":"Clarify Can I apply for life insurance policy through my AllinCall bank app",
+         "7":"Can I apply for life insurance policy through my AllinCall bank app? "
+      },
+      "intent":"Can I apply for life insurance policy through my AllinCall bank app?"
+   },
+   {
+      "id":1134,
+      "variations":{
+         "0":"How can I apply for life insurance",
+         "1":"Tell me about How can I apply for life insurance",
+         "2":"I want to know about How can I apply for life insurance",
+         "3":"Give me information about How can I apply for life insurance",
+         "4":"Details on How can I apply for life insurance",
+         "5":"Can you explain How can I apply for life insurance",
+         "6":"Clarify How can I apply for life insurance",
+         "7":"How can I apply for life insurance?"
+      },
+      "intent":"How can I apply for life insurance?"
+   },
+   {
+      "id":1160,
+      "variations":{
+         "0":"What is FATCA Declaration?",
+         "1":"Explain FATCA Declaration",
+         "2":"Share details on FATCA Declaration",
+         "3":"Tell me about FATCA Declaration",
+         "4":"Give information on FATCA Declaration",
+         "5":"FATCA Declaration "
+      },
+      "intent":"FATCA Declaration"
+   },
+   {
+      "id":1136,
+      "variations":{
+         "0":"Tell me about the premium amount of Secure One",
+         "1":"I want to know about the premium amount of Secure One",
+         "2":"Give me information about the premium amount of Secure One",
+         "3":"What are the things I need to know about the premium amount of Secure One",
+         "4":"Details on the premium amount of Secure One",
+         "5":"What is meant by the premium amount of Secure One",
+         "6":"Meaning of the premium amount of Secure One",
+         "7":"Can you explain the premium amount of Secure One",
+         "8":"Clarify what is the premium amount of Secure One",
+         "9":"I am confused about the premium amount of Secure One",
+         "10":"What is the premium amount of Secure One?"
+      },
+      "intent":"What is the premium amount of Secure One?"
+   },
+   {
+      "id":1137,
+      "variations":{
+         "0":"Tell me about Can I open RD",
+         "1":"I want to know about Can I open RD",
+         "2":"Give me information about Can I open RD",
+         "3":"Details on Can I open RD",
+         "4":"Can you explain Can I open RD",
+         "5":"Clarify Can I open RD",
+         "6":"Can I open RD",
+         "7":"Can I open RD ?",
+         "8":"Can I open RD account in my AllinCall bank digital account?"
+      },
+      "intent":"Can I open RD account in my AllinCall bank digital account?"
+   },
+   {
+      "id":1138,
+      "variations":{
+         "0":"Can I redeem the RD amount before the maturity period",
+         "1":"Tell me about Can I redeem the RD amount before the maturity period",
+         "2":"I want to know about Can I redeem the RD amount before the maturity period",
+         "3":"Give me information about Can I redeem the RD amount before the maturity period",
+         "4":"Details on Can I redeem the RD amount before the maturity period",
+         "5":"Can you explain Can I redeem the RD amount before the maturity period",
+         "6":"Clarify Can I redeem the RD amount before the maturity period",
+         "7":"Can I redeem the RD amount before the maturity period?"
+      },
+      "intent":"Can I redeem the RD amount before the maturity period?"
+   },
+   {
+      "id":1139,
+      "variations":{
+         "0":"Recurring Deposit",
+         "1":"Tell me about How can start Recurring Deposit",
+         "2":"I want to know about How can I start Recurring Deposit",
+         "3":"Give me information about How can I start Recurring Deposit",
+         "4":"Details on How can I start Recurring Deposit",
+         "5":"Can you explain How can I start Recurring Deposit",
+         "6":"Clarify How can I start Recurring Deposit",
+         "7":"How can I start Recurring Deposit?",
+         "8":"how can I start Recurring Deposit?",
+         "9":"How can I book RD"
+      },
+      "intent":"How can I open Recurring Deposit?"
+   },
+   {
+      "id":1140,
+      "variations":{
+         "0":"How can pay my recurring deposit installment that is due today",
+         "1":"Tell me about How can pay my recurring deposit installment that is due today",
+         "2":"I want to know about How can pay my recurring deposit installment that is due today",
+         "3":"Give me information about How can pay my recurring deposit installment that is due today",
+         "4":"Details on How can pay my recurring deposit installment that is due today",
+         "5":"Can you explain How can pay my recurring deposit installment that is due today",
+         "6":"Clarify How can pay my recurring deposit installment that is due today",
+         "7":"How can pay my recurring deposit installment that is due today? "
+      },
+      "intent":"How can pay my recurring deposit installment that is due today?"
+   },
+   {
+      "id":1141,
+      "variations":{
+         "0":"Tell me about the features and benefits of AllinCall RD",
+         "1":"I want to know about the features and benefits of AllinCall RD",
+         "2":"Give me information about the features and benefits of AllinCall RD",
+         "3":"What are the things I need to know about the features and benefits of AllinCall RD",
+         "4":"Details on the features and benefits of AllinCall RD",
+         "5":"What is meant by the features and benefits of AllinCall RD",
+         "6":"Meaning of the features and benefits of AllinCall RD",
+         "7":"Can you explain the features and benefits of AllinCall RD",
+         "8":"Clarify what is the features and benefits of AllinCall RD",
+         "9":"I am confused about the features and benefits of AllinCall RD",
+         "10":"What are the features and benefits of AllinCall RD?"
+      },
+      "intent":"What are the features and benefits of AllinCall RD?"
+   },
+   {
+      "id":1142,
+      "variations":{
+         "0":"What are the interest rates on AllinCall Bank Recurring Deposit?",
+         "1":"What are the interest rates on AllinCall Bank RD",
+         "2":"i want to know interest rates for AllinCall Recurring Deposit?",
+         "3":"i want to know interest rates AllinCall bank RD",
+         "4":"interest rates on AllinCall Recurring Deposit"
+      },
+      "intent":"What are the interest rates on AllinCall Bank Recurring Deposit?"
+   },
+   {
+      "id":1163,
+      "variations":{
+         "0":"Is it necessary to provide location consent?",
+         "1":"Do i need to provide location consent?",
+         "2":"Why are you asking for location consent?",
+         "3":"Why is the location consent needed?"
+      },
+      "intent":"Why is the location consent needed?"
+   },
+   {
+      "id":1143,
+      "variations":{
+         "0":"Tell me about What documents are needed to open Recurring Deposit",
+         "1":"I want to know about What documents are needed to open Recurring Deposit",
+         "2":"Give me information about What documents are needed to open Recurring Deposit",
+         "3":"What are the things I need to know about What documents are needed to open Recurring Deposit",
+         "4":"Details on What documents are needed to open Recurring Deposit",
+         "5":"What is meant by What documents are needed to open Recurring Deposit",
+         "6":"Meaning of What documents are needed to open Recurring Deposit",
+         "7":"Can you explain What documents are needed to open Recurring Deposit",
+         "8":"Clarify what is What documents are needed to open Recurring Deposit",
+         "9":"I am confused about What documents are needed to open Recurring Deposit",
+         "10":"What documents are needed to open Recurring Deposit?"
+      },
+      "intent":"What documents are needed to open Recurring Deposit?"
+   },
+   {
+      "id":1144,
+      "variations":{
+         "0":"Tell me about the minimum RD amount",
+         "1":"I want to know about the minimum RD amount",
+         "2":"Give me information about the minimum RD amount",
+         "3":"What are the things I need to know about the minimum RD amount",
+         "4":"Details on the minimum RD amount",
+         "5":"What is meant by the minimum RD amount",
+         "6":"Meaning of the minimum RD amount",
+         "7":"Can you explain the minimum RD amount",
+         "8":"Clarify what is the minimum RD amount",
+         "9":"I am confused about the minimum RD amount",
+         "10":"What's the minimum RD amount?"
+      },
+      "intent":"What's the minimum RD amount?"
+   },
+   {
+      "id":1145,
+      "variations":{
+         "0":"Tell me about AllinCall Group Smart Cash",
+         "1":"I want to know about AllinCall Group Smart Cash",
+         "2":"Give me information about AllinCall Group Smart Cash",
+         "3":"What are the things I need to know about AllinCall Group Smart Cash",
+         "4":"Details on AllinCall Group Smart Cash",
+         "5":"What is meant by AllinCall Group Smart Cash",
+         "6":"Meaning of AllinCall Group Smart Cash",
+         "7":"Can you explain AllinCall Group Smart Cash",
+         "8":"Clarify what is AllinCall Group Smart Cash",
+         "9":"I am confused about AllinCall Group Smart Cash",
+         "10":"What is AllinCall Group Smart Cash?"
+      },
+      "intent":"What is AllinCall Group Smart Cash?"
+   },
+   {
+      "id":1146,
+      "variations":{
+         "0":"Tell me about the premium amount of AllinCall Group Smart Cash",
+         "1":"I want to know about the premium amount of AllinCall Group Smart Cash",
+         "2":"Give me information about the premium amount of AllinCall Group Smart Cash",
+         "3":"What are the things I need to know about the premium amount of AllinCall Group Smart Cash",
+         "4":"Details on the premium amount of AllinCall Group Smart Cash",
+         "5":"What is meant by the premium amount of AllinCall Group Smart Cash",
+         "6":"Meaning of the premium amount of AllinCall Group Smart Cash",
+         "7":"Can you explain the premium amount of AllinCall Group Smart Cash",
+         "8":"Clarify what is the premium amount of AllinCall Group Smart Cash",
+         "9":"I am confused about the premium amount of AllinCall Group Smart Cash",
+         "10":"What is the premium amount of AllinCall Group Smart Cash?"
+      },
+      "intent":"What is the premium amount of AllinCall Group Smart Cash?"
+   },
+   {
+      "id":1147,
+      "variations":{
+         "0":"Do I need to book an FD to apply for AllinCall bank #DreamDifferent Credit Card",
+         "1":"Tell me about Do I need to book an FD to apply for AllinCall bank #DreamDifferent Credit Card",
+         "2":"I want to know about Do I need to book an FD to apply for AllinCall bank #DreamDifferent Credit Card",
+         "3":"Give me information about Do I need to book an FD to apply for AllinCall bank #DreamDifferent Credit Card",
+         "4":"Details on Do I need to book an FD to apply for AllinCall bank #DreamDifferent Credit Card",
+         "5":"Can you explain Do I need to book an FD to apply for AllinCall bank #DreamDifferent Credit Card",
+         "6":"Clarify Do I need to book an FD to apply for AllinCall bank #DreamDifferent Credit Card",
+         "7":"Do I need to book an FD to apply for AllinCall bank #DreamDifferent Credit Card?"
+      },
+      "intent":"Do I need to book an FD to apply for AllinCall bank #DreamDifferent Credit Card?"
+   },
+   {
+      "id":1148,
+      "variations":{
+         "0":"Tell me about NEFT",
+         "1":"I want to know about NEFT",
+         "2":"Give me information about NEFT",
+         "3":"Details on NEFT",
+         "4":"What is NEFT",
+         "5":"NEFT",
+         "6":"Can you tell me more about NEFT"
+      },
+      "intent":"What is NEFT"
+   },
+   {
+      "id":1149,
+      "variations":{
+         "0":"Tell me about IMPS",
+         "1":"I want to know about IMPS",
+         "2":"Give me information about IMPS",
+         "3":"Details on IMPS",
+         "4":"What is IMPS",
+         "5":"IMPS",
+         "6":"Can you tell me more about IMPS"
+      },
+      "intent":"What is IMPS"
+   },
+   {
+      "id":1150,
+      "variations":{
+         "0":"Money is getting deducted from my account?",
+         "1":"money is getting deducted as soon as i deposit ",
+         "2":"Money is getting deducted from my account",
+         "3":"why is my money getting deducted from my account",
+         "4":"balance getting deducted from my account",
+         "5":"money getting debited from my account ",
+         "6":"Money is going away from my account",
+         "7":"balance is going away from my account",
+         "8":"balance is debiting from account",
+         "9":"Money is getting deducted from account?",
+         "10":"Why money is getting deducted from account?",
+         "11":"Why money is getting deduct from account?"
+      },
+      "intent":"Why money is getting deducted from account?"
+   },
+   {
+      "id":1151,
+      "variations":{
+         "0":"Tell me about Limits",
+         "1":"I want to know about Limits",
+         "2":"Give me information about Limits",
+         "3":"Details on Limits",
+         "4":"Limits",
+         "5":"Limits",
+         "6":"Credit limits for my account",
+         "7":"What are the limitations for my account",
+         "8":"What are the limits for my account "
+      },
+      "intent":"Credit limits for my account"
+   },
+   {
+      "id":1153,
+      "variations":{
+         "0":"Steps to complete my Full KYC",
+         "1":"Process to complete my Full KYC",
+         "2":"Guide me on how to complete my Full KYC",
+         "3":"I want to complete my Full KYC please help",
+         "4":"How can I complete my Full KYC",
+         "5":"want to do full kyc",
+         "6":"How can I complete my Full KYC",
+         "7":"How can I set appointment for Full KYC",
+         "8":"How can I complete my KYC",
+         "9":"How to book appointment for full kyc"
+      },
+      "intent":"How can I complete my Full KYC"
+   },
+   {
+      "id":1154,
+      "variations":{
+         "0":"What should I do if No one visited my place for  Full KYC",
+         "1":"To whom should I contact if No one visited my place for Full KYC",
+         "2":"Please help me to complete my Full KYC as No one visited my place for Full KYC",
+         "3":"No one visited my place to complete Full KYC",
+         "4":"No one visited my place for Full KYC",
+         "5":"No one visited my place for full kyc appointment",
+         "6":"No one visited my place for full KYC appointment",
+         "7":"No one visited my place even after booking an appointment",
+         "8":"No one visited my place for full kyc appointment",
+         "9":"No one visited to complete Full KYC",
+         "10":"representative not coming",
+         "11":"No one visited for Full KYC",
+         "12":"No one came for Full KYC"
+      },
+      "intent":"No one came for Full KYC"
+   },
+   {
+      "id":1155,
+      "variations":{
+         "0":"online full kyc process",
+         "1":"can i do full kyc online",
+         "2":"how can i do full kyc online",
+         "3":"can i do online full kyc",
+         "4":"can i complete my kyc online",
+         "5":"Can I do Full KYC online"
+      },
+      "intent":"Can I do Full KYC online"
+   },
+   {
+      "id":1156,
+      "variations":{
+         "0":"Can you tell me more about transactions",
+         "1":"How can I do transactions?"
+      },
+      "intent":"How can I do transactions?"
+   },
+   {
+      "id":1157,
+      "variations":{
+         "0":"See my account details",
+         "1":"Help me where can I See my account details",
+         "2":"Can you tell where can I See my account details",
+         "3":"Guide from where can i See my account details",
+         "4":"Explain from where can I See my account details",
+         "5":"Where can I See my account details?",
+         "6":"Where is my account number",
+         "7":"where is my ifsc code",
+         "8":"what is my account number",
+         "9":"what is my ifsc code",
+         "10":"Where can I See my account details?",
+         "11":"Where are account details?",
+         "12":"where are my account details",
+         "13":"Where can i see my account details",
+         "14":"My account details?",
+         "15":"I want to know my account details"
+      },
+      "intent":"Where can I See my account details?"
+   },
+   {
+      "id":1159,
+      "variations":{
+         "0":"What is PEP",
+         "1":"Explain PEP",
+         "2":"Elaborate PEP",
+         "3":"Share details on PEP",
+         "4":"Give information on PEP",
+         "5":"PEP"
+      },
+      "intent":"PEP"
+   },
+   {
+      "id":1167,
+      "variations":{
+         "0":"Is there a requirement to have the current address proof for video KYC?",
+         "1":"Is it mandatory to provide current address proof for video KYC?",
+         "2":"Should i provide the current address proof for video KYC?",
+         "3":"Do I need to have current address proof for video KYC?"
+      },
+      "intent":"Do I need to have current address proof for video KYC?"
+   },
+   {
+      "id":1168,
+      "variations":{
+         "0":"What is AllinCall App?",
+         "1":"Explain the AllinCall App",
+         "2":"Elaborate the AllinCall App",
+         "3":"Give details on the AllinCall App",
+         "4":"Share information on the AllinCall App",
+         "5":"Tell me about the AllinCall App",
+         "6":"AllinCall App",
+         "7":"How to download AllinCall App",
+         "8":"How to download AllinCall app"
+      },
+      "intent":"AllinCall App"
+   },
+   {
+      "id":1169,
+      "variations":{
+         "0":"Initiate AllinCall",
+         "1":"carry on with AllinCall",
+         "2":"Open AllinCall",
+         "3":"can i open a AllinCall bank open",
+         "4":"how to open a AllinCall bank ",
+         "5":"i want to open a AllinCall bank account"
+      },
+      "intent":"Open AllinCall"
+   },
+   {
+      "id":1170,
+      "variations":{
+         "0":"Tell me about the method to find out folio numbers of all MF investments",
+         "1":"I want to know about the method to find out folio numbers of all MF investments",
+         "2":"Give me information about the method to find out folio numbers of all MF investments",
+         "3":"What are the things I need to know about the method to find out folio numbers of all MF investments",
+         "4":"Details on the method to find out folio numbers of all MF investments",
+         "5":"What is meant by the method to find out folio numbers of all MF investments",
+         "6":"Meaning of the method to find out folio numbers of all MF investments",
+         "7":"Can you explain the method to find out folio numbers of all MF investments",
+         "8":"Clarify what is the method to find out folio numbers of all MF investments",
+         "9":"I am confused about the method to find out folio numbers of all MF investments",
+         "10":"What is the method to find out folio numbers of all MF investments?"
+      },
+      "intent":"What is the method to find out folio numbers of all MF investments?"
+   },
+   {
+      "id":1171,
+      "variations":{
+         "0":"What is Full KYC",
+         "1":"can you tell me about full kyc",
+         "2":"explain full kyc",
+         "3":"details about full kyc",
+         "4":"what are the things i need to know about full kyc",
+         "5":"information about full kyc",
+         "6":"what do you mean by full kyc",
+         "7":"give me information on full kyc",
+         "8":"what you meant by full kyc",
+         "9":"information on full kyc",
+         "10":"help me understand full kyc",
+         "11":"tell me about full kyc",
+         "12":"can you explain full kyc",
+         "13":"What is Full KYC?",
+         "14":"full kyc"
+      },
+      "intent":"What is Full KYC?"
+   },
+   {
+      "id":1172,
+      "variations":{
+         "0":"benefits of Full KYC",
+         "1":"Pros for full kyc",
+         "2":" What are the benefits of Full KYC?",
+         "3":"full kyc benefits",
+         "4":"advantages of full kyc",
+         "5":"What are the benefits of Full KYC?"
+      },
+      "intent":"What are the benefits of Full KYC?"
+   },
+   {
+      "id":1173,
+      "variations":{
+         "0":"Please tell me about the charges of full KYC",
+         "1":"help me with the charges of full KYC",
+         "2":"Charges of full KYC",
+         "3":"Cost for full KYC",
+         "4":"how much cost for full KYC",
+         "5":"i want to know the charges for full KYC",
+         "6":"Charges for Full KYC"
+      },
+      "intent":"Charges for Full KYC"
+   },
+   {
+      "id":1174,
+      "variations":{
+         "0":"transfer funds",
+         "1":"Help me to transfer funds",
+         "2":"guide me to transfer funds",
+         "3":"Transfer funds",
+         "4":"Want to transfer funds",
+         "5":"Want to transfer money"
+      },
+      "intent":"How do I do fund transfer"
+   },
+   {
+      "id":1175,
+      "variations":{
+         "0":"apply for chequebook",
+         "1":"Help me to apply for chequebook",
+         "2":"proess for applying for a chequebook",
+         "3":"guide me to get a chequebook",
+         "4":"How to apply for chequebook?",
+         "5":"Check book",
+         "6":"Cheque book",
+         "7":"chequebook",
+         "8":"checkboook"
+      },
+      "intent":"How to apply for chequebook?"
+   },
+   {
+      "id":1176,
+      "variations":{
+         "0":"charges for virtual debit card",
+         "1":"Do I have to pay for an virtual debt card",
+         "2":"list charges for virtual debit card if any",
+         "3":"am I bound to pay any charge while getting a virtual debt card",
+         "4":"Is there any charge for virtual debit card?"
+      },
+      "intent":"Is there any charge for virtual debit card?"
+   },
+   {
+      "id":1177,
+      "variations":{
+         "0":"get a free debit card with my AllinCall bank Account",
+         "1":"Can I get a free debit card with my AllinCall bank Account",
+         "2":"with my AllinCall bank Account will I get a free debit card",
+         "3":"getting a free debt card with my AllinCall bank account",
+         "4":"Do I get a free debit card with my AllinCall bank Account?",
+         "5":"Do I get a free ATM card with my AllinCall bank Account?"
+      },
+      "intent":"Do I get a free debit card with my AllinCall bank Account?"
+   },
+   {
+      "id":1178,
+      "variations":{
+         "0":"limit for atm cash withdrawal in AllinCall bank account",
+         "1":"Tell me about limit for atm cash withdrawal in AllinCall bank account",
+         "2":"I want to know about limit for atm cash withdrawal in AllinCall bank account",
+         "3":"Give me information about limit for atm cash withdrawal in AllinCall bank account",
+         "4":"What is the limit for atm cash withdrawal in AllinCall bank account?",
+         "5":"What is the limit for atm cash withdrawal in AllinCall bank account?",
+         "6":"What are the charges for ATM",
+         "7":"What is ATM fee"
+      },
+      "intent":"What is the limit for atm cash withdrawal in AllinCall bank account?"
+   },
+   {
+      "id":1179,
+      "variations":{
+         "0":"check my account details from AllinCall app",
+         "1":"Help me with is it possible for me to check my account details from AllinCall app",
+         "2":"Guide me am I allowed to check my account details from AllinCall app",
+         "3":"Tell me is it legit if i check check my account details from AllinCall app",
+         "4":"Can I check my account details from AllinCall app?"
+      },
+      "intent":"Can I check my account details from AllinCall app?"
+   },
+   {
+      "id":1180,
+      "variations":{
+         "0":"What if my my account got blocked",
+         "1":"What to do if my my account got blocked",
+         "2":"account blocked",
+         "3":"help me to unblock my account",
+         "4":"My account got blocked ",
+         "5":"My account got blocked",
+         "6":"Mobile banking application got blocked",
+         "7":"My account got block",
+         "8":"why my MPIN is blocked",
+         "9":"Why my mobile banking App is blocked",
+         "10":"My account is block"
+      },
+      "intent":"My account got blocked"
+   },
+   {
+      "id":1181,
+      "variations":{
+         "0":"get image debit card",
+         "1":"is image debit card only for employee",
+         "2":"help me with is it possible for me to get image debit card",
+         "3":"Guide me with am I allowed to get image debit card",
+         "4":"Tell me is it legit if I get image debit card",
+         "5":"Can I get image debit card",
+         "6":"how can I upgrade my debit card"
+      },
+      "intent":"Can I get image debit card"
+   },
+   {
+      "id":1182,
+      "variations":{
+         "0":"Can you suggest what if My debit card was stolen",
+         "1":"Answer me what if My debit card was stolen",
+         "2":"Clarify what if My debit card was stolen",
+         "3":"Details on what if My debit card was stolen",
+         "4":"My debit card was stolen",
+         "5":"my debit card was steal",
+         "6":"larceny with my debit card",
+         "7":"theft happened with my debit card",
+         "8":"someone stole my debit card",
+         "9":"What to do in case Debit card gets robbed ",
+         "10":"What to do if my debit is stolen",
+         "11":"What to do if my debit card is stolen",
+         "12":"What to do if my card is stolen",
+         "13":"What to do I lost my debit card",
+         "14":"What to do if i forgot my debit card",
+         "15":"How to deactivate debit card",
+         "16":"What to do in case of debit card theft?",
+         "17":"How to replace debit card",
+         "18":"I want to block my card",
+         "19":"Block debit card",
+         "20":"How to deactivate debit card",
+         "21":"how to disable debit card",
+         "22":"How to switched off debit card",
+         "23":"My debit card was lost",
+         "24":"I forgot my debit card",
+         "25":"I misplaced my debit card",
+         "26":"How to place replacement request for debit card"
+      },
+      "intent":"My debit card was stolen"
+   },
+   {
+      "id":1183,
+      "variations":{
+         "0":"deception",
+         "1":"duplicity",
+         "2":"cheat",
+         "3":"scam",
+         "4":"fraudulent",
+         "5":"hoax",
+         "6":"Fraud",
+         "7":"Fraud transaction",
+         "8":"Fraud has happened in my account",
+         "9":"What should I do if I notice a fraud activity on my credit card",
+         "10":"report fraud on credit card"
+      },
+      "intent":"Fraud"
+   },
+   {
+      "id":1184,
+      "variations":{
+         "0":"Where can I update my profile details",
+         "1":"Help me Where can I update my profile details",
+         "2":"Can you tell Where can I update my profile details",
+         "3":"Guide from where can i find CD Ratio for my district",
+         "4":"Explain from Where can I update my profile details",
+         "5":"Where can I update my profile details",
+         "6":"How to update email ID ",
+         "7":"How to update PAN number",
+         "8":"How to update nominee",
+         "9":"How to change email ID",
+         "10":"How to change Nominee",
+         "11":"How to change nominee",
+         "12":"how to change email ID",
+         "13":"how to add nominee",
+         "14":"how to add email ID",
+         "15":"Where can I update my profile details (Email/Nominee)"
+      },
+      "intent":"Where can I update my profile details (Email/Nominee)"
+   },
+   {
+      "id":1186,
+      "variations":{
+         "0":"Steps to create my UPI/VPA Id",
+         "1":"Process to create my UPI/VPA Id",
+         "2":"Guide me on how to create my UPI/VPA Id",
+         "3":"I want to create my UPI/VPA Id please help",
+         "4":"how do I create my UPI/VPA Id",
+         "5":"UPI",
+         "6":"Can you tell me details about  UPI/VPA Id",
+         "7":"Can you tell me more about UPI/VPA Id",
+         "8":"how do I create my UPI/VPA Id",
+         "9":"What is UPI",
+         "10":"What is VPA",
+         "11":"Where can I find my UPI details",
+         "12":"Where can I find my VPA details"
+      },
+      "intent":"how do I create my UPI/VPA Id"
+   },
+   {
+      "id":1187,
+      "variations":{
+         "0":"What are the entities who can open AllinCall account.",
+         "1":"Can i open an AllinCall account?",
+         "2":"Who can open AllinCall account"
+      },
+      "intent":"Who can open AllinCall account"
+   },
+   {
+      "id":1188,
+      "variations":{
+         "0":"Explain AllinCall bank",
+         "1":"Give details on AllinCall bank",
+         "2":"Tell me about AllinCall bank",
+         "3":"Share information of AllinCall bank",
+         "4":"What is AllinCall bank?"
+      },
+      "intent":"What is AllinCall bank?"
+   },
+   {
+      "id":1189,
+      "variations":{
+         "0":"optout",
+         "1":"stop",
+         "2":"Stop"
+      },
+      "intent":"Stop"
+   },
+   {
+      "id":1190,
+      "variations":{
+         "0":"Account related queries",
+         "1":"account related queries"
+      },
+      "intent":"Account related queries"
+   },
+   {
+      "id":1191,
+      "variations":{
+         "0":"Debit Card related queries",
+         "1":"Debit Card related query",
+         "2":"Debit Card related issues"
+      },
+      "intent":"Debit Card related queries"
+   },
+   {
+      "id":1192,
+      "variations":{
+         "0":"Login related queries"
+      },
+      "intent":"Login related queries"
+   },
+   {
+      "id":1193,
+      "variations":{
+         "0":"Full KYC related queries"
+      },
+      "intent":"Full KYC related queries"
+   },
+   {
+      "id":1199,
+      "variations":{
+         "0":"Is it possible to deposit cash",
+         "1":"I want to deposit cash can it be done",
+         "2":"How can I deposit cash",
+         "3":"Can I deposit cash?",
+         "4":"Can I deposit cash ?"
+      },
+      "intent":"Can I deposit cash ?"
+   },
+   {
+      "id":1200,
+      "variations":{
+         "0":"How Full KYC is important",
+         "1":"Why Full KYC is important",
+         "2":"Necessity of Full KYC",
+         "3":"Why Full KYC is necessay",
+         "4":"Why Full KYC is given priority",
+         "5":"Why is Full KYC necessary?",
+         "6":"Why is Full KYC necessary?",
+         "7":"is full kyc compulsory"
+      },
+      "intent":"Why is Full KYC necessary?"
+   },
+   {
+      "id":1201,
+      "variations":{
+         "0":"see my account balance",
+         "1":"Help me where can I see my account balance",
+         "2":"Can you tell where can I see my account balance",
+         "3":"Guide from where can i see my account balance",
+         "4":"Explain from where can I see my account balance",
+         "5":"Where can see my account balance?",
+         "6":"Where can see my account balance?",
+         "7":"View recent transactions",
+         "8":"Last transactions",
+         "9":"Where can see my account balance & transactions?",
+         "10":"Where can I see my transactions"
+      },
+      "intent":"Where can see my account balance & transactions?"
+   },
+   {
+      "id":1202,
+      "variations":{
+         "0":"Steps to make online payments through my AllinCall bank Account",
+         "1":"Process to make online payments through my AllinCall bank Account",
+         "2":"Guide me on how to make online payments through my AllinCall bank Account",
+         "3":"I want to make online payments through my AllinCall bank Account please help",
+         "4":"How can I make online payments through my AllinCall bank Account?",
+         "5":"How can I make online payments through my AllinCall bank Account"
+      },
+      "intent":"How can I make online payments through my AllinCall bank Account"
+   },
+   {
+      "id":1203,
+      "variations":{
+         "0":"Apply for Debit Card",
+         "1":"Help me to Apply for Debit Card",
+         "2":"Can you tell how to Apply for Debit Card",
+         "3":"guide me to Apply for Debit Card",
+         "4":"Explain how to Apply for Debit Card",
+         "5":"How to Apply for Debit Card?",
+         "6":"How to Apply for Debit Card?",
+         "7":"i need urgent Debit card"
+      },
+      "intent":"How to Apply for Debit Card?"
+   },
+   {
+      "id":1204,
+      "variations":{
+         "0":"Can I apply for AllinCall Gold Loan online",
+         "1":"Tell me about Can I apply for AllinCall Gold Loan online",
+         "2":"I want to know about Can I apply for AllinCall Gold Loan online",
+         "3":"Give me information about Can I apply for AllinCall Gold Loan online",
+         "4":"Details on Can I apply for AllinCall Gold Loan online",
+         "5":"Can you explain Can I apply for AllinCall Gold Loan online",
+         "6":"Clarify Can I apply for AllinCall Gold Loan online",
+         "7":"Can I apply for AllinCall Gold Loan online? "
+      },
+      "intent":"Can I apply for AllinCall Gold Loan online?"
+   },
+   {
+      "id":1205,
+      "variations":{
+         "0":"optin",
+         "1":"start",
+         "2":"Start"
+      },
+      "intent":"Start"
+   },
+   {
+      "id":1207,
+      "variations":{
+         "0":"Nearest branch or ATM",
+         "1":"nearest branch",
+         "2":"nearest atm",
+         "3":"Where is nearest branch or ATM"
+      },
+      "intent":"Where is nearest branch or ATM"
+   },
+   {
+      "id":1208,
+      "variations":{
+         "0":"Where can I get my account statement?",
+         "1":"i want to know my account statement",
+         "2":"estatement",
+         "3":"get Estatement",
+         "4":"Where can I get my account statement?",
+         "5":"detailed summary statement",
+         "6":"how to know if someone credited amount",
+         "7":"Account transaction history"
+      },
+      "intent":"Where can I get my account statement?"
+   },
+   {
+      "id":1209,
+      "variations":{
+         "0":"How can I Add money to AllinCall bank Account?",
+         "1":"i want to add money to my AllinCall bank account",
+         "2":"add money in my account",
+         "3":"How can I Add money/transfer money to AllinCall bank Account?",
+         "4":"i can not credit my account what is solution",
+         "5":"how to credit my account",
+         "6":"no one can transfer money to me",
+         "7":"Funding"
+      },
+      "intent":"How can I Add money/transfer money to AllinCall bank Account?"
+   },
+   {
+      "id":1218,
+      "variations":{
+         "0":"How to apply for passbook?",
+         "1":"I want to apply for passbook",
+         "2":"i want passbook",
+         "3":"passbook application",
+         "4":"How to apply for passbook?"
+      },
+      "intent":"How to apply for passbook?"
+   },
+   {
+      "id":1219,
+      "variations":{
+         "0":"Unhelpful",
+         "1":"bad bot",
+         "2":"not helful ",
+         "3":"bad experience",
+         "4":"time waste",
+         "5":"Miserable",
+         "6":"pathetic",
+         "7":"horrible "
+      },
+      "intent":"Unhelpful"
+   },
+   {
+      "id":1220,
+      "variations":{
+         "0":"Helpful",
+         "1":"Thank you ",
+         "2":"Good bot",
+         "3":"nice experience",
+         "4":"awesome",
+         "5":"good work",
+         "6":"fantastic",
+         "7":"wonderful",
+         "8":"outstanding",
+         "9":"Amazing",
+         "10":"perfect",
+         "11":"excellent "
+      },
+      "intent":"Helpful"
+   },
+   {
+      "id":1221,
+      "variations":{
+         "0":"Tell me a joke",
+         "1":"joke"
+      },
+      "intent":"Tell me a joke"
+   },
+   {
+      "id":1222,
+      "variations":{
+         "0":"Will you marry me",
+         "1":"marry me"
+      },
+      "intent":"Will you marry me"
+   },
+   {
+      "id":1223,
+      "variations":{
+         "0":"How are you doing",
+         "1":"All good",
+         "2":"how is it going"
+      },
+      "intent":"How are you doing"
+   },
+   {
+      "id":1206,
+      "variations":{
+         "0":"bye",
+         "1":"goodbye",
+         "2":"see ya",
+         "3":"tada",
+         "4":"bye bye",
+         "5":"byee",
+         "6":"byeee",
+         "7":"byeeee",
+         "8":"good bye",
+         "9":"see you",
+         "10":"cya"
+      },
+      "intent":"bye"
+   },
+   {
+      "id":1224,
+      "variations":{
+         "0":"Are you serious",
+         "1":"are you kidding",
+         "2":"kidding a what"
+      },
+      "intent":"Are you serious"
+   },
+   {
+      "id":994,
+      "variations":{
+         "0":"hello",
+         "1":"yo",
+         "2":"hey",
+         "3":"hiii",
+         "4":"hii",
+         "5":"hey",
+         "6":"Hi",
+         "7":"hiiii",
+         "8":"helloo",
+         "9":"hellooo"
+      },
+      "intent":"Hi"
+   },
+   {
+      "id":1002,
+      "variations":{
+         "0":"Share details of the average monthly balance (AMB)",
+         "1":"Explain the average monthly balance (AMB)",
+         "2":"Tell me about the average monthly balance (AMB)",
+         "3":"Give information on the average monthly balance (AMB)",
+         "4":"What is the average monthly balance (AMB)?",
+         "5":"What is minimum balance ",
+         "6":"How much minimum balance i need to maintain",
+         "7":"what is minimum balance requirement ",
+         "8":"AMB",
+         "9":"minimum balance update my ac"
+      },
+      "intent":"What is the average monthly balance (AMB)?"
+   },
+   {
+      "id":1010,
+      "variations":{
+         "0":"What are the Documents required to open AllinCall bank?",
+         "1":"How to open AllinCall? What is needed along?",
+         "2":"Tell me about the Documents needed to open AllinCall bank",
+         "3":"Documents for AllinCall bank"
+      },
+      "intent":"Documents for AllinCall bank"
+   }
+]
